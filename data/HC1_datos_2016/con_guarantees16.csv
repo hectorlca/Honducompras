@@ -1,0 +1,796 @@
+ocid,id,contracts/0/id,contracts/0/guarantees/0/id,contracts/0/guarantees/0/guaranteeType,contracts/0/guarantees/0/guarantor/id,contracts/0/guarantees/0/guarantor/name
+ocds-lcuori-Zr57xG-CM-003-IMFFAA-2016-1,ocds-lcuori-Zr57xG-CM-003-IMFFAA-2016-1/4,Zr57xG-CM-003-IMFFAA-2016,Zr57xG-CM-003-IMFFAA-2016,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-Zr57xG-CM-004-IMFFAA-2016-1,ocds-lcuori-Zr57xG-CM-004-IMFFAA-2016-1/4,Zr57xG-CM-005-IMFFAA-2016,Zr57xG-CM-005-IMFFAA-2016,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-kR2qdG-LP-08-HRSC-2016-2,ocds-lcuori-kR2qdG-LP-08-HRSC-2016-2/3,kR2qdG-05,kR2qdG-05,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-NLP4qL-LPNS-009-2016-2,ocds-lcuori-NLP4qL-LPNS-009-2016-2/3,NLP4qL-CB-002-2016,NLP4qL-CB-002-2016,suretyBond,G7GXMRV,Banco del País S.A.
+ocds-lcuori-7G3MNr-LPRI 092016-2,ocds-lcuori-7G3MNr-LPRI 092016-2/3,7G3MNr-LPRI 092016,7G3MNr-LPRI 092016,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-JLKQxR-LP. 017-16-2,ocds-lcuori-JLKQxR-LP. 017-16-2/3,JLKQxR-3594,JLKQxR-3594,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-JLKQxR-LP. 018-16-2,ocds-lcuori-JLKQxR-LP. 018-16-2/3,JLKQxR-3596,JLKQxR-3596,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-wrVn3r-LP11-HSI-2016-2,ocds-lcuori-wrVn3r-LP11-HSI-2016-2/3,wrVn3r-11-16,wrVn3r-11-16,,G7GXMRV,Banco del País S.A.
+ocds-lcuori-grxXEr-LP. 020-16-2,ocds-lcuori-grxXEr-LP. 020-16-2/3,grxXEr-2898,grxXEr-2898,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-grxXEr-LP.022-16-2,ocds-lcuori-grxXEr-LP.022-16-2/3,grxXEr-2900,grxXEr-2900,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-yRlaDr-LP. 006-2016-2,ocds-lcuori-yRlaDr-LP. 006-2016-2/3,yRlaDr-031-16,yRlaDr-031-16,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-yRlaDr-LP. 009-2016-2,ocds-lcuori-yRlaDr-LP. 009-2016-2/3,yRlaDr-032-16,yRlaDr-032-16,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-WRzj0R-LPR-001-2016-2,ocds-lcuori-WRzj0R-LPR-001-2016-2/3,WRzj0R-001-2016,WRzj0R-001-2016,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-WRzbRe-LPN-DGC-DC-002-2016-2,ocds-lcuori-WRzbRe-LPN-DGC-DC-002-2016-2/3,WRzbRe-05-DC-DGC-INSEP-2016,WRzbRe-05-DC-DGC-INSEP-2016,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-grxXEr-LP. 025-16-2,ocds-lcuori-grxXEr-LP. 025-16-2/3,grxXEr-2906,grxXEr-2906,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-MLQnAG-024-2016-HRS-2,ocds-lcuori-MLQnAG-024-2016-HRS-2/3,MLQnAG-024-2016-HRS,MLQnAG-024-2016-HRS,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-MLQnAG-0952-2016-HRS-2,ocds-lcuori-MLQnAG-0952-2016-HRS-2/3,MLQnAG-0952-2016-HRS,MLQnAG-0952-2016-HRS,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-03-2016-2,ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-03-2016-2/3,wrV3LP-56241,wrV3LP-56241,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-Zr57xG-CM-26-IMFFAA-2016-1,ocds-lcuori-Zr57xG-CM-26-IMFFAA-2016-1/4,Zr57xG-CM-26-IMFFAA-2016,Zr57xG-CM-26-IMFFAA-2016,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-gRNDyL-014-03-2016-2,ocds-lcuori-gRNDyL-014-03-2016-2/3,gRNDyL-024-03-2016,gRNDyL-024-03-2016,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-Zr57xG-CM-27-IMFFAA-2016-1,ocds-lcuori-Zr57xG-CM-27-IMFFAA-2016-1/4,Zr57xG-CM-27-IMFFAA-2016,Zr57xG-CM-27-IMFFAA-2016,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-7GXMRV-LP-L02-017-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L02-017-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.022-CO-GE-DGOP-INSEP-2016,7GXMRV-No.022-CO-GE-DGOP-INSEP-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-Zr57xG-CM-28-IMFFAA-2016-1,ocds-lcuori-Zr57xG-CM-28-IMFFAA-2016-1/4,Zr57xG-CM-28-IMFFAA-2016,Zr57xG-CM-28-IMFFAA-2016,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-7GXMRV-LP-L01-009-GE-DGOP-OO.UU-2016-2,ocds-lcuori-7GXMRV-LP-L01-009-GE-DGOP-OO.UU-2016-2/3,7GXMRV-No.013-CO-GE-DGOP-INSEP-2016,7GXMRV-No.013-CO-GE-DGOP-INSEP-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrVn3r-LP18-HSI-2016-2,ocds-lcuori-wrVn3r-LP18-HSI-2016-2/3,wrVn3r-18-16,wrVn3r-18-16,,G7GXMRV,Banco del País S.A.
+ocds-lcuori-kR2qdG-LP-012-HRSC-2016-2,ocds-lcuori-kR2qdG-LP-012-HRSC-2016-2/3,kR2qdG-20,kR2qdG-20,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-wrVn3r-LP36-HSI-2016-2,ocds-lcuori-wrVn3r-LP36-HSI-2016-2/3,wrVn3r-36-16,wrVn3r-36-16,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-wrVn3r-LP42-HSI-2016-2,ocds-lcuori-wrVn3r-LP42-HSI-2016-2/3,wrVn3r-42-16,wrVn3r-42-16,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-wrVn3r-CC46-HSI-2016-1,ocds-lcuori-wrVn3r-CC46-HSI-2016-1/3,wrVn3r-46-16,wrVn3r-46-16,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-7rBxpG-LPrivada No.02-2016-2,ocds-lcuori-7rBxpG-LPrivada No.02-2016-2/3,7rBxpG-056-2016,7rBxpG-056-2016,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-19-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-19-2016-2/3,wrV3LP-56769,wrV3LP-56769,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-11-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-11-2016-2/3,wrV3LP-56251,wrV3LP-56251,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L05-046-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L05-046-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-NO. 043-CO-GE-DGOP-INSEP-2016,7GXMRV-NO. 043-CO-GE-DGOP-INSEP-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrVn3r-LP32-HSI-2016-2,ocds-lcuori-wrVn3r-LP32-HSI-2016-2/3,wrVn3r-32-16,wrVn3r-32-16,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-14-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-14-2016-HO-OBRAS-2/3,PR8wNG-09-2016,PR8wNG-09-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-NLP4qL-LPN-004-2016-2,ocds-lcuori-NLP4qL-LPN-004-2016-2/3,NLP4qL-CO-003-2016,NLP4qL-CO-003-2016,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-7G3MNr-042016-2,ocds-lcuori-7G3MNr-042016-2/3,7G3MNr-042016,7G3MNr-042016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-jRDkVG-LP-03-2016-2,ocds-lcuori-jRDkVG-LP-03-2016-2/3,jRDkVG-LP-03-2016,jRDkVG-LP-03-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-JL7W2L-LP 013-2016-2,ocds-lcuori-JL7W2L-LP 013-2016-2/3,JL7W2L-1622,JL7W2L-1622,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-JL7W2L-LP 013-2016-2,ocds-lcuori-JL7W2L-LP 013-2016-2/3,JL7W2L-1624,JL7W2L-1624,check,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-grxy3L-LP-028-2016-2,ocds-lcuori-grxy3L-LP-028-2016-2/3,grxy3L-LP-028-2016,grxy3L-LP-028-2016,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-grxXEr-LP. 018-16-2,ocds-lcuori-grxXEr-LP. 018-16-2/3,grxXEr-2894,grxXEr-2894,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-MLQnAG-008-2016-hs-2,ocds-lcuori-MLQnAG-008-2016-hs-2/3,MLQnAG-008-2016-hs,MLQnAG-008-2016-hs,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-PGJpAr-025-2016-1,ocds-lcuori-PGJpAr-025-2016-1/3,PGJpAr-025-2016,PGJpAr-025-2016,check,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-wrVn3r-CC05-HSI-2016-1,ocds-lcuori-wrVn3r-CC05-HSI-2016-1/3,wrVn3r-05,wrVn3r-05,,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-grxy3L-LP018-2,ocds-lcuori-grxy3L-LP018-2/3,grxy3L-LP018,grxy3L-LP018,check,GkR05rP,Banco de Honduras S.A.
+ocds-lcuori-MLQnAG-016-2016-HGS-2,ocds-lcuori-MLQnAG-016-2016-HGS-2/3,MLQnAG-016-2016-HGS,MLQnAG-016-2016-HGS,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-Zr5mWr-PCDC No. 01-2016-SEAPI-UNAH-2,ocds-lcuori-Zr5mWr-PCDC No. 01-2016-SEAPI-UNAH-2/3,Zr5mWr-CC-01-2016-SEAPI-UNAH,Zr5mWr-CC-01-2016-SEAPI-UNAH,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-grxy3L-LP-OO1-2016-2,ocds-lcuori-grxy3L-LP-OO1-2016-2/3,grxy3L-LP-OO1-2016,grxy3L-LP-OO1-2016,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-grxy3L-LP-002-2016-2,ocds-lcuori-grxy3L-LP-002-2016-2/3,grxy3L-LP-002-2016,grxy3L-LP-002-2016,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-kR0qDr-No.03-2016-2,ocds-lcuori-kR0qDr-No.03-2016-2/3,kR0qDr-No.030-2016,kR0qDr-No.030-2016,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-grxy3L-LP-006-2016-2,ocds-lcuori-grxy3L-LP-006-2016-2/3,grxy3L-LP-006-2016,grxy3L-LP-006-2016,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-gLkVEr-LPN CONADEH-001-2016-2,ocds-lcuori-gLkVEr-LPN CONADEH-001-2016-2/3,gLkVEr-No. 1-2016,gLkVEr-No. 1-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-ZGqW9r-LPN-005-IPM-2016-2,ocds-lcuori-ZGqW9r-LPN-005-IPM-2016-2/3,ZGqW9r-LPN-005-IPM-2016,ZGqW9r-LPN-005-IPM-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-ZGqW9r-LPP-001-2016-2,ocds-lcuori-ZGqW9r-LPP-001-2016-2/3,ZGqW9r-LPP-001-IPM-2016,ZGqW9r-LPP-001-IPM-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7rBxpG-LPública No.03-2016-2,ocds-lcuori-7rBxpG-LPública No.03-2016-2/3,7rBxpG-053-2016,7rBxpG-053-2016,suretyBond,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-MrMPYR-LPN-CNBS-01-2016-2,ocds-lcuori-MrMPYR-LPN-CNBS-01-2016-2/3,MrMPYR-109,MrMPYR-109,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-grxXEr-L P.003-16-2,ocds-lcuori-grxXEr-L P.003-16-2/3,grxXEr-2872,grxXEr-2872,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-mGEMGM-SEFIN LPN-021-2015-2,ocds-lcuori-mGEMGM-SEFIN LPN-021-2015-2/3,mGEMGM-CONTRATO No 006-2016,mGEMGM-CONTRATO No 006-2016,suretyBond,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-kR0qDr-No.08-2015-2,ocds-lcuori-kR0qDr-No.08-2015-2/3,kR0qDr-025-2016,kR0qDr-025-2016,suretyBond,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-MLQ18L-HBCBH-001-2016-2,ocds-lcuori-MLQ18L-HBCBH-001-2016-2/3,MLQ18L-HBCBH-32-2016,MLQ18L-HBCBH-32-2016,suretyBond,GDRW5Lg,Seguros Atlántida S.A.
+ocds-lcuori-kG1ger-licitacion privada 01-2015-2,ocds-lcuori-kG1ger-licitacion privada 01-2015-2/3,kG1ger-01-2016,kG1ger-01-2016,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-grxXEr-L P. 005-16-2,ocds-lcuori-grxXEr-L P. 005-16-2/3,grxXEr-2874,grxXEr-2874,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-grxXEr- L P. 007-16-2,ocds-lcuori-grxXEr- L P. 007-16-2/3,grxXEr-2876,grxXEr-2876,check,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-ERpaDr-LP 111-15 HEP-2,ocds-lcuori-ERpaDr-LP 111-15 HEP-2/3,ERpaDr-111-15,ERpaDr-111-15,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-JL7W2L-LP 004-2016-2,ocds-lcuori-JL7W2L-LP 004-2016-2/3,JL7W2L-1628,JL7W2L-1628,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-yRlaDr-003-2016-2,ocds-lcuori-yRlaDr-003-2016-2/3,yRlaDr-008-16,yRlaDr-008-16,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-4LOY7R-LP-03-2016-2,ocds-lcuori-4LOY7R-LP-03-2016-2/3,4LOY7R-03-2016,4LOY7R-03-2016,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-kG1ger-LPI 01-2016-2,ocds-lcuori-kG1ger-LPI 01-2016-2/3,kG1ger-05-2016,kG1ger-05-2016,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-Zr5mWr-LPN No. 01-2016-SEAPI-UNAH-2,ocds-lcuori-Zr5mWr-LPN No. 01-2016-SEAPI-UNAH-2/6,Zr5mWr-CC-04-SEAPI-UNAH,Zr5mWr-CC-04-SEAPI-UNAH,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-vGZVoG-SS-PICSC-LPI-005-2016-2,ocds-lcuori-vGZVoG-SS-PICSC-LPI-005-2016-2/3,vGZVoG-SS-UCP-0106-2016,vGZVoG-SS-UCP-0106-2016,suretyBond,G7GXMRV,Banco del País S.A.
+ocds-lcuori-grxXEr-LP.002-16-2,ocds-lcuori-grxXEr-LP.002-16-2/3,grxXEr-2871,grxXEr-2871,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-ZGqW9r-LPN-001-IPM-201´6-2,ocds-lcuori-ZGqW9r-LPN-001-IPM-201´6-2/3,ZGqW9r-LPN-001-IPM-201´6,ZGqW9r-LPN-001-IPM-201´6,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-0rw5YG-58-2016-2,ocds-lcuori-0rw5YG-58-2016-2/3,0rw5YG-58-2016,0rw5YG-58-2016,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-Zr5zxL-LPN-MPC-GAF-01-2015-2,ocds-lcuori-Zr5zxL-LPN-MPC-GAF-01-2015-2/3,Zr5zxL-S-N,Zr5zxL-S-N,check,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-Zr5mWr-CPN-No-01-2016-SEAPI-UNAH-2,ocds-lcuori-Zr5mWr-CPN-No-01-2016-SEAPI-UNAH-2/3,Zr5mWr-CS-01-2016-SEAPI-UNAH,Zr5mWr-CS-01-2016-SEAPI-UNAH,suretyBond,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-Zr5mWr-CPN No-02-2016-SEAPI-UNAH-2,ocds-lcuori-Zr5mWr-CPN No-02-2016-SEAPI-UNAH-2/3,Zr5mWr-CS-02-2016-SEAPI-UNAH,Zr5mWr-CS-02-2016-SEAPI-UNAH,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-grxXEr-LP. 011-16-2,ocds-lcuori-grxXEr-LP. 011-16-2/3,grxXEr-2881,grxXEr-2881,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-PGJpAr-012-2016-1,ocds-lcuori-PGJpAr-012-2016-1/3,PGJpAr-012-2016,PGJpAr-012-2016,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-grxXEr-LP. 012-16-2,ocds-lcuori-grxXEr-LP. 012-16-2/3,grxXEr-2882,grxXEr-2882,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-grxXEr-LP. 013-16-2,ocds-lcuori-grxXEr-LP. 013-16-2/3,grxXEr-2886,grxXEr-2886,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-jRDkVG-LP-02-2016-2,ocds-lcuori-jRDkVG-LP-02-2016-2/3,jRDkVG-LP-02-2016,jRDkVG-LP-02-2016,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-PGJpAr-016-2016-1,ocds-lcuori-PGJpAr-016-2016-1/3,PGJpAr-016-2016,PGJpAr-016-2016,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-ZGqW9r-LPN-003-IPM-2016-2,ocds-lcuori-ZGqW9r-LPN-003-IPM-2016-2/3,ZGqW9r-LPN-003-IPM-2016,ZGqW9r-LPN-003-IPM-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-ZGqW9r-LPN-004-IPM-2016-2,ocds-lcuori-ZGqW9r-LPN-004-IPM-2016-2/3,ZGqW9r-LPN-004-IPM-2016,ZGqW9r-LPN-004-IPM-2016,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-gRNDyL-002-03-2016-1,ocds-lcuori-gRNDyL-002-03-2016-1/3,gRNDyL-002-03-2016,gRNDyL-002-03-2016,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-kR0qDr-LPN-04-2016-2,ocds-lcuori-kR0qDr-LPN-04-2016-2/3,kR0qDr-No.027-2016,kR0qDr-No.027-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-JLKAbR-Lic. Publ.No.001-2016-2,ocds-lcuori-JLKAbR-Lic. Publ.No.001-2016-2/3,JLKAbR-01,JLKAbR-01,suretyBond,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-7G3MNr-012016-2,ocds-lcuori-7G3MNr-012016-2/3,7G3MNr-LPRI 012016,7G3MNr-LPRI 012016,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-30-2016-2,ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-30-2016-2/3,wrV3LP-59419,wrV3LP-59419,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-30-2016-2,ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-30-2016-2/3,wrV3LP-59424,wrV3LP-59424,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-yRlaDr-005-2016-2,ocds-lcuori-yRlaDr-005-2016-2/3,yRlaDr-012-16,yRlaDr-012-16,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-83-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-83-2016-2/3,wrV3LP-59525,wrV3LP-59525,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-84-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-84-2016-2/3,wrV3LP-59513,wrV3LP-59513,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-85-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-85-2016-2/3,wrV3LP-59417,wrV3LP-59417,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXmzR-LPN-003-2016 CCIVS-2,ocds-lcuori-7GXmzR-LPN-003-2016 CCIVS-2/3,7GXmzR-P2-012-2016 CCIVS ,7GXmzR-P2-012-2016 CCIVS ,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7G3MNr-LPRI 182016-2,ocds-lcuori-7G3MNr-LPRI 182016-2/3,7G3MNr-732016,7G3MNr-732016,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-7G3MNr-LPRI 182016-2,ocds-lcuori-7G3MNr-LPRI 182016-2/3,7G3MNr-LPRI 182016,7G3MNr-LPRI 182016,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-7G3MNr-LPRI 192016-2,ocds-lcuori-7G3MNr-LPRI 192016-2/3,7G3MNr-LPRI 192016,7G3MNr-LPRI 192016,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-grxXEr-LP. 014-16-2,ocds-lcuori-grxXEr-LP. 014-16-2/3,grxXEr-2888,grxXEr-2888,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-JLKQxR-LP. 019-16-2,ocds-lcuori-JLKQxR-LP. 019-16-2/3,JLKQxR-3603,JLKQxR-3603,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-JLKQxR-LP. 020-16-2,ocds-lcuori-JLKQxR-LP. 020-16-2/3,JLKQxR-3604,JLKQxR-3604,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-gLkVEr-LP CONADEH-001-2016-2,ocds-lcuori-gLkVEr-LP CONADEH-001-2016-2/3,gLkVEr-OC-LP CONADEH-001-2016 ,gLkVEr-OC-LP CONADEH-001-2016 ,suretyBond,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-gLnw4G-OC-HBCBLP-00005-1,ocds-lcuori-gLnw4G-OC-HBCBLP-00005-1/4,gLnw4G-OC-HBCBLP-00005,gLnw4G-OC-HBCBLP-00005,,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-jRDkVG-LP-04-2016-2,ocds-lcuori-jRDkVG-LP-04-2016-2/3,jRDkVG-LP-04-2016,jRDkVG-LP-04-2016,check,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-JLKQxR-LP.039-16-2,ocds-lcuori-JLKQxR-LP.039-16-2/3,JLKQxR-3658,JLKQxR-3658,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-7GXmzR-CD-007-2016 CCIVS -2,ocds-lcuori-7GXmzR-CD-007-2016 CCIVS -2/3,7GXmzR-S5-013-2016,7GXmzR-S5-013-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXmzR-CD-008-2016 CCIVS -2,ocds-lcuori-7GXmzR-CD-008-2016 CCIVS -2/3,7GXmzR-S9-015-11-2016,7GXmzR-S9-015-11-2016,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-7GXmzR-CD-009-2016 CCIVS -2,ocds-lcuori-7GXmzR-CD-009-2016 CCIVS -2/3,7GXmzR-S5-018-11-2016,7GXmzR-S5-018-11-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXmzR-CD-010-2016 CCIVS-2,ocds-lcuori-7GXmzR-CD-010-2016 CCIVS-2/3,7GXmzR-S5-022-11-2016,7GXmzR-S5-022-11-2016,check,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-7GXmzR-CD-011-2016 CCIVS -2,ocds-lcuori-7GXmzR-CD-011-2016 CCIVS -2/3,7GXmzR-S7-023-11-2016 ,7GXmzR-S7-023-11-2016 ,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-mrY67L-4909-2016RSGD-1,ocds-lcuori-mrY67L-4909-2016RSGD-1/3,mrY67L-4909-2016RSGD,mrY67L-4909-2016RSGD,,G7G3yrQ,Banco Promerica S.A.
+ocds-lcuori-8L47Pr-LP-023-2016-2,ocds-lcuori-8L47Pr-LP-023-2016-2/3,8L47Pr-180-2016,8L47Pr-180-2016,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-8L47Pr-LP-023-2016-2,ocds-lcuori-8L47Pr-LP-023-2016-2/3,8L47Pr-181-2016,8L47Pr-181-2016,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-WRzdbL-118-2016-HT-1,ocds-lcuori-WRzdbL-118-2016-HT-1/3,WRzdbL-108-2016,WRzdbL-108-2016,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-02-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-02-2016-HO-OBRAS-2/3,PR8wNG-20-2016,PR8wNG-20-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-PR8ooG-LP-01-CONAPID-2016-2,ocds-lcuori-PR8ooG-LP-01-CONAPID-2016-2/3,PR8ooG-61-CONAPID-2016,PR8ooG-61-CONAPID-2016,suretyBond,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-03-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-03-2016-HO-OBRAS-2/3,PR8wNG-01-2016,PR8wNG-01-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrVn3r-CC68-HSI-2016-1,ocds-lcuori-wrVn3r-CC68-HSI-2016-1/3,wrVn3r-68,wrVn3r-68,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-wrVn3r-CC69-HSI-2016-1,ocds-lcuori-wrVn3r-CC69-HSI-2016-1/3,wrVn3r-69-16,wrVn3r-69-16,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-wrVn3r-CC70-HSI-2016-1,ocds-lcuori-wrVn3r-CC70-HSI-2016-1/3,wrVn3r-70-16,wrVn3r-70-16,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-wrVn3r-CC71-HSI-2016-1,ocds-lcuori-wrVn3r-CC71-HSI-2016-1/3,wrVn3r-71-16,wrVn3r-71-16,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-MLQW8R-1207-2016-2,ocds-lcuori-MLQW8R-1207-2016-2/3,MLQW8R-1207-2016,MLQW8R-1207-2016,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-orvkNL-LPN No.20-2016-SEAF-UNAH-2,ocds-lcuori-orvkNL-LPN No.20-2016-SEAF-UNAH-2/3,orvkNL-19-2017-SEAF-UNAH,orvkNL-19-2017-SEAF-UNAH,suretyBond,GNLPKrv,Compañía de Seguros Interamericana S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-04-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-04-2016-HO-OBRAS-2/3,PR8wNG-13-2016,PR8wNG-13-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-05-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-05-2016-HO-OBRAS-2/3,PR8wNG-06-2016,PR8wNG-06-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-7rBxpG-CDirecta No.08-2016-2,ocds-lcuori-7rBxpG-CDirecta No.08-2016-2/3,7rBxpG-002-2017,7rBxpG-002-2017,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-06-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-06-2016-HO-OBRAS-2/3,PR8wNG-07-2016,PR8wNG-07-2016,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-07-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-07-2016-HO-OBRAS-2/3,PR8wNG-02-2016,PR8wNG-02-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-8L47Pr-LP-022-2016-2,ocds-lcuori-8L47Pr-LP-022-2016-2/3,8L47Pr-179-2016,8L47Pr-179-2016,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-10-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-10-2016-HO-OBRAS-2/3,PR8wNG-18-2016,PR8wNG-18-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-8L47Pr-LP-019-2016-2,ocds-lcuori-8L47Pr-LP-019-2016-2/3,8L47Pr-166-2016,8L47Pr-166-2016,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-11-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-11-2016-HO-OBRAS-2/3,PR8wNG-05-2016,PR8wNG-05-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-7rBxpG-LPública No.27-2016-2,ocds-lcuori-7rBxpG-LPública No.27-2016-2/3,7rBxpG-059-2017,7rBxpG-059-2017,suretyBond,GPR85r9,"DAVIVIENDA HONDURAS, S. A. "
+ocds-lcuori-7rBxpG-LPública No.27-2016-2,ocds-lcuori-7rBxpG-LPública No.27-2016-2/3,7rBxpG-060-2017,7rBxpG-060-2017,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-jRDkVG-LP-017-2016-2,ocds-lcuori-jRDkVG-LP-017-2016-2/3,jRDkVG-LP-017-2016,jRDkVG-LP-017-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-WRzdbL-LP-019-2016-HT-2,ocds-lcuori-WRzdbL-LP-019-2016-HT-2/3,WRzdbL-053-2016-HT,WRzdbL-053-2016-HT,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-MrMPYR-LPN-CNBS-02-2016-2,ocds-lcuori-MrMPYR-LPN-CNBS-02-2016-2/3,MrMPYR-105,MrMPYR-105,suretyBond,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-MrMPYR-LPN-CNBS-02-2016-2,ocds-lcuori-MrMPYR-LPN-CNBS-02-2016-2/3,MrMPYR-CNBS-CSE-03/2017,MrMPYR-CNBS-CSE-03/2017,suretyBond,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-ZGqbBR-LPN N° 001-2016-2,ocds-lcuori-ZGqbBR-LPN N° 001-2016-2/3,ZGqbBR-S-N,ZGqbBR-S-N,suretyBond,G7GXMRV,Banco del País S.A.
+ocds-lcuori-7GXMRV-LP-001-DGOP-OO.UU-2016-2,ocds-lcuori-7GXMRV-LP-001-DGOP-OO.UU-2016-2/3,7GXMRV-No.071-CO-DGOP-INSEP-2016,7GXMRV-No.071-CO-DGOP-INSEP-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-MLQnAG-015-2016-HGS-2,ocds-lcuori-MLQnAG-015-2016-HGS-2/3,MLQnAG-015-2016-HGS,MLQnAG-015-2016-HGS,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-JLKQxR-LP. 021-16-2,ocds-lcuori-JLKQxR-LP. 021-16-2/3,JLKQxR-3605,JLKQxR-3605,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-ZGqbBR-LPN N° 002-2016-2,ocds-lcuori-ZGqbBR-LPN N° 002-2016-2/3,ZGqbBR-SN,ZGqbBR-SN,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-12-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-12-2016-HO-OBRAS-2/3,PR8wNG-08-2016,PR8wNG-08-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-13-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-13-2016-HO-OBRAS-2/3,PR8wNG-19-2016,PR8wNG-19-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-0rw5YG-12-1-2016-2,ocds-lcuori-0rw5YG-12-1-2016-2/3,0rw5YG-12-1-2016,0rw5YG-12-1-2016,suretyBond,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-kG1ger-Lpub 08-2016-2,ocds-lcuori-kG1ger-Lpub 08-2016-2/3,kG1ger-05-2017,kG1ger-05-2017,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-15-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-15-2016-HO-OBRAS-2/3,PR8wNG-15-2016,PR8wNG-15-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-16-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-16-2016-HO-OBRAS-2/3,PR8wNG-10-2016,PR8wNG-10-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-17-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-17-2016-HO-OBRAS-2/3,PR8wNG-12-2016,PR8wNG-12-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-18-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-18-2016-HO-OBRAS-2/3,PR8wNG-03-2016,PR8wNG-03-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-20-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-20-2016-HO-OBRAS-2/3,PR8wNG-16-2016,PR8wNG-16-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-22-2016 2° Proceso-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-22-2016 2° Proceso-2/3,wrV3LP-57821,wrV3LP-57821,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-24-2016 2° Proceso-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-24-2016 2° Proceso-2/3,wrV3LP-58000,wrV3LP-58000,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-orvkNL-LPN No.08-2016-2,ocds-lcuori-orvkNL-LPN No.08-2016-2/3,orvkNL-31-2016-SEAF-UNAH,orvkNL-31-2016-SEAF-UNAH,suretyBond,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-28-2016 2° Proceso-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-28-2016 2° Proceso-2/3,wrV3LP-57954,wrV3LP-57954,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-ERpaDr-LP30-16HEP-2,ocds-lcuori-ERpaDr-LP30-16HEP-2/3,ERpaDr-30-16,ERpaDr-30-16,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-WRzdbL-LP-032-2016-HT-2,ocds-lcuori-WRzdbL-LP-032-2016-HT-2/3,WRzdbL-099-2016,WRzdbL-099-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-ERpaDr-LP39-16HEP-2,ocds-lcuori-ERpaDr-LP39-16HEP-2/3,ERpaDr-39-16,ERpaDr-39-16,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-MLQnAG-042-2016-HGS-2,ocds-lcuori-MLQnAG-042-2016-HGS-2/3,MLQnAG-042-2016-HGS2,MLQnAG-042-2016-HGS2,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-MLQnAG-041-2016-HGS-2,ocds-lcuori-MLQnAG-041-2016-HGS-2/3,MLQnAG-041-2016-HGS2,MLQnAG-041-2016-HGS2,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-7G3MNr-LPRI 202016-2,ocds-lcuori-7G3MNr-LPRI 202016-2/3,7G3MNr-LPRI 202016,7G3MNr-LPRI 202016,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-7G3MNr-LPRI 212016-2,ocds-lcuori-7G3MNr-LPRI 212016-2/3,7G3MNr-LPRI 212016,7G3MNr-LPRI 212016,suretyBond,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-MLQnAG-046-2016-HGS-2,ocds-lcuori-MLQnAG-046-2016-HGS-2/3,MLQnAG-046-2016-HGS2,MLQnAG-046-2016-HGS2,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-25-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-25-2016-HO-OBRAS-2/3,PR8wNG-22-2016,PR8wNG-22-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-26-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-26-2016-HO-OBRAS-2/3,PR8wNG-23-2016,PR8wNG-23-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-yRl6pL-LPNS 01 SSIS PRAF BM 5603 2016-2,ocds-lcuori-yRl6pL-LPNS 01 SSIS PRAF BM 5603 2016-2/3,yRl6pL-05/SSIS/BM/B/5603/2016,yRl6pL-05/SSIS/BM/B/5603/2016,suretyBond,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-JLKQxR-LP.040-16-2,ocds-lcuori-JLKQxR-LP.040-16-2/3,JLKQxR-3669,JLKQxR-3669,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-WRzdbL-LP-033-2016-HT-2,ocds-lcuori-WRzdbL-LP-033-2016-HT-2/3,WRzdbL-100-2016,WRzdbL-100-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-grxXEr-LP.032-16-2,ocds-lcuori-grxXEr-LP.032-16-2/3,grxXEr-2918,grxXEr-2918,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-ERpaDr-63-16-2,ocds-lcuori-ERpaDr-63-16-2/3,ERpaDr-63-16,ERpaDr-63-16,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-ERpaDr-63-16-2,ocds-lcuori-ERpaDr-63-16-2/3,ERpaDr-75-16,ERpaDr-75-16,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-7rBxpG-LPública No.08-2016-2,ocds-lcuori-7rBxpG-LPública No.08-2016-2/3,7rBxpG-60-2016,7rBxpG-60-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-Zr57xG-CM-001-IMFFAA-2016-1,ocds-lcuori-Zr57xG-CM-001-IMFFAA-2016-1/4,Zr57xG-CM-01-IMFFAA-2016,Zr57xG-CM-01-IMFFAA-2016,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-mGEvMR-HPMM 164-2016-1,ocds-lcuori-mGEvMR-HPMM 164-2016-1/3,mGEvMR-HPMM 164-2016,mGEvMR-HPMM 164-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-MLQW8R-03-2016-2,ocds-lcuori-MLQW8R-03-2016-2/3,MLQW8R-03-2016,MLQW8R-03-2016,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-7G3oBG-LP-027-2016-2,ocds-lcuori-7G3oBG-LP-027-2016-2/3,7G3oBG-LP-027-2016,7G3oBG-LP-027-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7G3oBG-LP-028-2016-2,ocds-lcuori-7G3oBG-LP-028-2016-2/3,7G3oBG-LP-028-2016,7G3oBG-LP-028-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-8L47Pr-L-P 010-2016-2,ocds-lcuori-8L47Pr-L-P 010-2016-2/3,8L47Pr-0096-2016,8L47Pr-0096-2016,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-kR2xaL-LPNo-ONCAE-CC-VA-003-2016-2,ocds-lcuori-kR2xaL-LPNo-ONCAE-CC-VA-003-2016-2/3,kR2xaL-LPNo-ONCAE-CC-VA-003-2016,kR2xaL-LPNo-ONCAE-CC-VA-003-2016,suretyBond,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-7rBxpG-LPública No.41-2016-2,ocds-lcuori-7rBxpG-LPública No.41-2016-2/3,7rBxpG-030-2017,7rBxpG-030-2017,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-kR0qDr-LPN-08-2016-2,ocds-lcuori-kR0qDr-LPN-08-2016-2/3,kR0qDr-No.02-2017,kR0qDr-No.02-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7rBxpG-LPública No.29-2016-2,ocds-lcuori-7rBxpG-LPública No.29-2016-2/3,7rBxpG-006-2017,7rBxpG-006-2017,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-grxXEr-L.P. 037-16-2,ocds-lcuori-grxXEr-L.P. 037-16-2/3,grxXEr-2926,grxXEr-2926,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-7rBxpG-LPública No.30-2016-2,ocds-lcuori-7rBxpG-LPública No.30-2016-2/3,7rBxpG-010-2017,7rBxpG-010-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-Zr57xG-CM-005-IMFFAA-2016-1,ocds-lcuori-Zr57xG-CM-005-IMFFAA-2016-1/4,Zr57xG-CM-IMFFAA-2016,Zr57xG-CM-IMFFAA-2016,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-64-2016-2°-PROCESO-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-64-2016-2°-PROCESO-2/3,wrV3LP-58454,wrV3LP-58454,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-gRNDyL-008-03-2016-2,ocds-lcuori-gRNDyL-008-03-2016-2/3,gRNDyL-009-03-2016,gRNDyL-009-03-2016,check,GkR05rP,Banco de Honduras S.A.
+ocds-lcuori-gRNDyL-009-03-2016-2,ocds-lcuori-gRNDyL-009-03-2016-2/3,gRNDyL-010-03-2016,gRNDyL-010-03-2016,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-grxXEr-LP. 069-16-2,ocds-lcuori-grxXEr-LP. 069-16-2/3,grxXEr-3005,grxXEr-3005,check,GkR05rP,Banco de Honduras S.A.
+ocds-lcuori-gRNDyL-010-03-2016-2,ocds-lcuori-gRNDyL-010-03-2016-2/3,gRNDyL-011-03-2016,gRNDyL-011-03-2016,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-114-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-114-2016-2/3,wrV3LP-59254,wrV3LP-59254,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-24-2016-2,ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-24-2016-2/3,wrV3LP-59208,wrV3LP-59208,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-25-2016-2,ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-25-2016-2/3,wrV3LP-59207,wrV3LP-59207,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-26-2016-2,ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-26-2016-2/3,wrV3LP-59204,wrV3LP-59204,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-JLKQxR-LP. 023-16-2,ocds-lcuori-JLKQxR-LP. 023-16-2/3,JLKQxR-3611,JLKQxR-3611,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-grxXEr-LP. 015-16-2,ocds-lcuori-grxXEr-LP. 015-16-2/3,grxXEr-2889,grxXEr-2889,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-Zr5mWr-CPN No. 03-2016-SEAPI-UNAH-2,ocds-lcuori-Zr5mWr-CPN No. 03-2016-SEAPI-UNAH-2/3,Zr5mWr-CS-01-2017-SEAPI-UNAH,Zr5mWr-CS-01-2017-SEAPI-UNAH,suretyBond,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-gRNDyL-019-03-2016-2,ocds-lcuori-gRNDyL-019-03-2016-2/3,gRNDyL-028-03-2016,gRNDyL-028-03-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-16-2016-2,ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-16-2016-2/3,wrV3LP-58481,wrV3LP-58481,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-7GXMRV-LP-L00-003-DGOP-OO.HH.-2016-2,ocds-lcuori-7GXMRV-LP-L00-003-DGOP-OO.HH.-2016-2/3,7GXMRV-184-CO-DGOP-INSEP-2016,7GXMRV-184-CO-DGOP-INSEP-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXmzR-LPN-004-2016 CCIVS -2,ocds-lcuori-7GXmzR-LPN-004-2016 CCIVS -2/3,7GXmzR-P4-017-2016 CCIVS,7GXmzR-P4-017-2016 CCIVS,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-MLQnAG-045-2016-HGS-2,ocds-lcuori-MLQnAG-045-2016-HGS-2/3,MLQnAG-045-2016-HGS2,MLQnAG-045-2016-HGS2,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-7GXmzR-LPN-006-2016 CCIVS -2,ocds-lcuori-7GXmzR-LPN-006-2016 CCIVS -2/3,7GXmzR-P2-019-2016 CCIVS ,7GXmzR-P2-019-2016 CCIVS ,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXmzR-LPN-007-2016 CCIVS -2,ocds-lcuori-7GXmzR-LPN-007-2016 CCIVS -2/3,7GXmzR-P4-020-2016 CCIVS ,7GXmzR-P4-020-2016 CCIVS ,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-7GXmzR-LPN-008-2016 CCIVS-2,ocds-lcuori-7GXmzR-LPN-008-2016 CCIVS-2/3,7GXmzR-P6-021-2016 CCIVS ,7GXmzR-P6-021-2016 CCIVS ,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXmzR-LP-002-2016 CCIVS -2,ocds-lcuori-7GXmzR-LP-002-2016 CCIVS -2/3,7GXmzR-P4-013-2016 CCIVS ,7GXmzR-P4-013-2016 CCIVS ,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXmzR-LP-003-2016 CCIVS -2,ocds-lcuori-7GXmzR-LP-003-2016 CCIVS -2/3,7GXmzR-P6-015-2016 CCIVS ,7GXmzR-P6-015-2016 CCIVS ,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-8L47Pr-COT. 077-2016-1,ocds-lcuori-8L47Pr-COT. 077-2016-1/3,8L47Pr-118-2016,8L47Pr-118-2016,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-orvkNL-LPN No.12-2016-SEAF-UNAH-2,ocds-lcuori-orvkNL-LPN No.12-2016-SEAF-UNAH-2/3,orvkNL-38-2016-SEAF-UNAH,orvkNL-38-2016-SEAF-UNAH,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-1Rax9G-CM-032-EPCPS-GA-2016-1,ocds-lcuori-1Rax9G-CM-032-EPCPS-GA-2016-1/3,1Rax9G-CM-032-EPCPS-GA-2016,1Rax9G-CM-032-EPCPS-GA-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-ZGqbBR-LPN-GT-MPC-No. 05-2016-2,ocds-lcuori-ZGqbBR-LPN-GT-MPC-No. 05-2016-2/3,ZGqbBR-CLPN-MPC-002-2017,ZGqbBR-CLPN-MPC-002-2017,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-ZGqW9r-LPN-007-IPM-2016-2,ocds-lcuori-ZGqW9r-LPN-007-IPM-2016-2/3,ZGqW9r-LPN-007-IPM-2016,ZGqW9r-LPN-007-IPM-2016,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-MLQW8R-19-2016-2,ocds-lcuori-MLQW8R-19-2016-2/3,MLQW8R-1245,MLQW8R-1245,check,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-grxy3L-LP-014-2016-2,ocds-lcuori-grxy3L-LP-014-2016-2/3,grxy3L-LP-014-2016,grxy3L-LP-014-2016,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-grxy3L-LP-012-2016-2,ocds-lcuori-grxy3L-LP-012-2016-2/3,grxy3L-LP-012-2016,grxy3L-LP-012-2016,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-7rBxpG-BCH-T3042-10-1,ocds-lcuori-7rBxpG-BCH-T3042-10-1/3,7rBxpG-022-2016,7rBxpG-022-2016,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-yRlaDr-LP. 015-2016-2,ocds-lcuori-yRlaDr-LP. 015-2016-2/3,yRlaDr-047-16,yRlaDr-047-16,check,GorvDGM,Banco Hondureño del Café S.A.
+ocds-lcuori-7rBxpG-BCH-T3043-11-1,ocds-lcuori-7rBxpG-BCH-T3043-11-1/3,7rBxpG-023-2016,7rBxpG-023-2016,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-yRlaDr-LP. 017-2016-2,ocds-lcuori-yRlaDr-LP. 017-2016-2/3,yRlaDr-042-16,yRlaDr-042-16,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-yRlaDr-LP. 018-2016-2,ocds-lcuori-yRlaDr-LP. 018-2016-2/3,yRlaDr-044-16,yRlaDr-044-16,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-yRlaDr-LP. 020-2016-2,ocds-lcuori-yRlaDr-LP. 020-2016-2/3,yRlaDr-048-16,yRlaDr-048-16,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-kR2qdG-LP-27-HRSC-2016-2,ocds-lcuori-kR2qdG-LP-27-HRSC-2016-2/3,kR2qdG-61,kR2qdG-61,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-Zr5mWr-LPN No. 06-2016-SEAPI-UNAH-2,ocds-lcuori-Zr5mWr-LPN No. 06-2016-SEAPI-UNAH-2/3,Zr5mWr-CC-10-2016-SEAPI-UNAH,Zr5mWr-CC-10-2016-SEAPI-UNAH,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-kR2qdG-LP-28-HRSC-2016-2,ocds-lcuori-kR2qdG-LP-28-HRSC-2016-2/3,kR2qdG-62,kR2qdG-62,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-MLQW8R-15-2016-2,ocds-lcuori-MLQW8R-15-2016-2/3,MLQW8R-1241,MLQW8R-1241,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-grxXEr-L.P. 040-16-2,ocds-lcuori-grxXEr-L.P. 040-16-2/3,grxXEr-2932,grxXEr-2932,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-7GXmzR-LP-004-2016 CCIVS -2,ocds-lcuori-7GXmzR-LP-004-2016 CCIVS -2/3,7GXmzR-P6-022-2016 CCIVS ,7GXmzR-P6-022-2016 CCIVS ,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-grxXEr-LP. 038-16-2,ocds-lcuori-grxXEr-LP. 038-16-2/3,grxXEr-2927,grxXEr-2927,check,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-grxXEr-LP. 042-16-2,ocds-lcuori-grxXEr-LP. 042-16-2/3,grxXEr-2936,grxXEr-2936,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-grxXEr-LP. 043-16-2,ocds-lcuori-grxXEr-LP. 043-16-2/3,grxXEr-2937,grxXEr-2937,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-orvkNL-LPN No.17-2016-SEAF-UNAH-2,ocds-lcuori-orvkNL-LPN No.17-2016-SEAF-UNAH-2/3,orvkNL-20-2017-SEAF-UNAH,orvkNL-20-2017-SEAF-UNAH,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-orvkNL-LPN No.17-2016-SEAF-UNAH-2,ocds-lcuori-orvkNL-LPN No.17-2016-SEAF-UNAH-2/3,orvkNL-21-2017-SEAF-UNAH,orvkNL-21-2017-SEAF-UNAH,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-orvwoL-LPN-01-OBRAS-UNA-PINPROS-2016-2,ocds-lcuori-orvwoL-LPN-01-OBRAS-UNA-PINPROS-2016-2/3,orvwoL-OBRAS-001-UNA-PINPROS-2017,orvwoL-OBRAS-001-UNA-PINPROS-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-7rBxpG-LPrivada No.08-2016-2,ocds-lcuori-7rBxpG-LPrivada No.08-2016-2/3,7rBxpG-018-2017,7rBxpG-018-2017,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-7GXmzR-LPN-002-2016 CCIVS-2,ocds-lcuori-7GXmzR-LPN-002-2016 CCIVS-2/3,7GXmzR-P4-007-2016 CCIVS ,7GXmzR-P4-007-2016 CCIVS ,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-JL7W2L-LP 005-2016-2,ocds-lcuori-JL7W2L-LP 005-2016-2/3,JL7W2L-1616,JL7W2L-1616,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-JL7W2L-LP 006-2016-2,ocds-lcuori-JL7W2L-LP 006-2016-2/3,JL7W2L-1617,JL7W2L-1617,check,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-JL7W2L-LP 007-2016-2,ocds-lcuori-JL7W2L-LP 007-2016-2/3,JL7W2L-1618,JL7W2L-1618,check,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-JL7W2L-LP 008-2016-2,ocds-lcuori-JL7W2L-LP 008-2016-2/3,JL7W2L-1619,JL7W2L-1619,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-MLQnAG-030-2016-HGS-2,ocds-lcuori-MLQnAG-030-2016-HGS-2/3,MLQnAG-030-2016-HGS2,MLQnAG-030-2016-HGS2,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-JL7W2L-LP 009-2016-2,ocds-lcuori-JL7W2L-LP 009-2016-2/3,JL7W2L-1620,JL7W2L-1620,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-JL7W2L-LP 010-2016-2,ocds-lcuori-JL7W2L-LP 010-2016-2/3,JL7W2L-1621,JL7W2L-1621,check,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-MLQnAG-032-2016-HGS-2,ocds-lcuori-MLQnAG-032-2016-HGS-2/3,MLQnAG-032-2016-HGS2,MLQnAG-032-2016-HGS2,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-MLQnAG-033-2016-HGS-2,ocds-lcuori-MLQnAG-033-2016-HGS-2/3,MLQnAG-033-2016-HGS2,MLQnAG-033-2016-HGS2,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-JL7W2L-LP 012-2016-2,ocds-lcuori-JL7W2L-LP 012-2016-2/3,JL7W2L-1623,JL7W2L-1623,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-MLQnAG-035-2016-HGS-2,ocds-lcuori-MLQnAG-035-2016-HGS-2/3,MLQnAG-035-2016-HGS2,MLQnAG-035-2016-HGS2,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-7GXMRV-LP-002-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-002-DGOP-OO.UU.-2016-2/3,7GXMRV-No.072-CO-DGOP-INSEP-2016,7GXMRV-No.072-CO-DGOP-INSEP-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-ZGqW9r-LPP-005-IPM-2016-2,ocds-lcuori-ZGqW9r-LPP-005-IPM-2016-2/4,ZGqW9r-LPP-005-IPM-2016,ZGqW9r-LPP-005-IPM-2016,suretyBond,G7GXMRV,Banco del País S.A.
+ocds-lcuori-orvkNL-LPN No.14-2016-SEAF-UNAH-2,ocds-lcuori-orvkNL-LPN No.14-2016-SEAF-UNAH-2/3,orvkNL-02-2017-SEAF-UNAH,orvkNL-02-2017-SEAF-UNAH,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-Zr5mWr-LPN No. 08-2016-SEAPI-UNAH-2,ocds-lcuori-Zr5mWr-LPN No. 08-2016-SEAPI-UNAH-2/4,Zr5mWr-CC-04-2017-SEAPI-UNAH,Zr5mWr-CC-04-2017-SEAPI-UNAH,suretyBond,G7GXMRV,Banco del País S.A.
+ocds-lcuori-MrM0xR-CC-0044-RSO-2016-1,ocds-lcuori-MrM0xR-CC-0044-RSO-2016-1/3,MrM0xR-1444,MrM0xR-1444,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-jRDkVG-LP-026-2016-2,ocds-lcuori-jRDkVG-LP-026-2016-2/3,jRDkVG-LP-026-2016,jRDkVG-LP-026-2016,check,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-jRDkVG-LP-027-2016-2,ocds-lcuori-jRDkVG-LP-027-2016-2/3,jRDkVG-LP-027-2016,jRDkVG-LP-027-2016,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-7rBxpG-LPública No.14-2016-2,ocds-lcuori-7rBxpG-LPública No.14-2016-2/3,7rBxpG-69-2016,7rBxpG-69-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-orvkNL-LPN No.16-2016-SEAF-UNAH-2,ocds-lcuori-orvkNL-LPN No.16-2016-SEAF-UNAH-2/3,orvkNL-22-2017-SEAF-UNAH,orvkNL-22-2017-SEAF-UNAH,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-jRDkVG-LP-028-2016-2,ocds-lcuori-jRDkVG-LP-028-2016-2/3,jRDkVG-LP-028-2016,jRDkVG-LP-028-2016,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-grxXEr-LP. 016-16-2,ocds-lcuori-grxXEr-LP. 016-16-2/3,grxXEr-2892,grxXEr-2892,check,G7G3yrQ,Banco Promerica S.A.
+ocds-lcuori-ZGqW9r-LPP-007-IPM-2016-2,ocds-lcuori-ZGqW9r-LPP-007-IPM-2016-2/3,ZGqW9r-LPP-007-IPM-2016,ZGqW9r-LPP-007-IPM-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-1Ra0dG-LP-CONV-001-2016-2,ocds-lcuori-1Ra0dG-LP-CONV-001-2016-2/3,1Ra0dG-CONV-001,1Ra0dG-CONV-001,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-grxXEr-LP. 056-16-2,ocds-lcuori-grxXEr-LP. 056-16-2/3,grxXEr-2974,grxXEr-2974,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-78-2016-2°-PROCESO-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-78-2016-2°-PROCESO-2/3,wrV3LP-58696,wrV3LP-58696,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-grxXEr-LP. 058-16-2,ocds-lcuori-grxXEr-LP. 058-16-2/3,grxXEr-2976,grxXEr-2976,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-26-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-26-2016-2/3,wrV3LP-56404,wrV3LP-56404,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-29-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-29-2016-2/3,wrV3LP-57957,wrV3LP-57957,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-09-2016-2,ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-09-2016-2/3,wrV3LP-57955,wrV3LP-57955,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-10-2016-2,ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-10-2016-2/3,wrV3LP-57953,wrV3LP-57953,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-33-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-33-2016-2/3,wrV3LP-57863,wrV3LP-57863,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-Zr5mWr-LPN No. 02-2016-SEAPI-UNAH-2,ocds-lcuori-Zr5mWr-LPN No. 02-2016-SEAPI-UNAH-2/3,Zr5mWr-CC-05-2016-SEAPI-UNAH,Zr5mWr-CC-05-2016-SEAPI-UNAH,suretyBond,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-lRo92L-A-23-2,ocds-lcuori-lRo92L-A-23-2/3,lRo92L-16-31,lRo92L-16-31,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-Zr5mWr-LPN No. 03-2016-SEAPI-UNAH-2,ocds-lcuori-Zr5mWr-LPN No. 03-2016-SEAPI-UNAH-2/3,Zr5mWr-CC-07-2016-SEAPI-UNAH,Zr5mWr-CC-07-2016-SEAPI-UNAH,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-mGE4eL-COT-IDECOAS-FHIS-08-2016-2,ocds-lcuori-mGE4eL-COT-IDECOAS-FHIS-08-2016-2/3,mGE4eL-57952,mGE4eL-57952,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-lRo92L-A-26-2,ocds-lcuori-lRo92L-A-26-2/3,lRo92L-16-34,lRo92L-16-34,suretyBond,GDRW5Lg,Seguros Atlántida S.A.
+ocds-lcuori-Zr5mWr-LPN No. 04-2016-SEAPI-UNAH-2,ocds-lcuori-Zr5mWr-LPN No. 04-2016-SEAPI-UNAH-2/3,Zr5mWr-CC-06-2016-SEAPI-UNAH,Zr5mWr-CC-06-2016-SEAPI-UNAH,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-8L47Pr-L-P 036-2016-2,ocds-lcuori-8L47Pr-L-P 036-2016-2/3,8L47Pr-288-2016,8L47Pr-288-2016,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-KLg9wR-LPR-002-2016-DA-2,ocds-lcuori-KLg9wR-LPR-002-2016-DA-2/3,KLg9wR-DSL-023-2016,KLg9wR-DSL-023-2016,suretyBond,G7GXMRV,Banco del País S.A.
+ocds-lcuori-Zr57xG-CM-15-IMFFAA-2016-1,ocds-lcuori-Zr57xG-CM-15-IMFFAA-2016-1/4,Zr57xG-CM-15-IMFFAA-2016,Zr57xG-CM-15-IMFFAA-2016,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-Zr57xG-CM-16-IMFFAA-2016-1,ocds-lcuori-Zr57xG-CM-16-IMFFAA-2016-1/4,Zr57xG-CM-16-IMFFAA-2016,Zr57xG-CM-16-IMFFAA-2016,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-11-2016-2,ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-11-2016-2/3,wrV3LP-57868,wrV3LP-57868,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-Zr5mWr-PCDC No. 06-2016-SEAPI-UNAH-2,ocds-lcuori-Zr5mWr-PCDC No. 06-2016-SEAPI-UNAH-2/6,Zr5mWr-CC-02-2017-SEAPI-UNAH,Zr5mWr-CC-02-2017-SEAPI-UNAH,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-Zr57xG-CM-17-IMFFAA-2016-1,ocds-lcuori-Zr57xG-CM-17-IMFFAA-2016-1/4,Zr57xG-CM-17-IMFFAA-2016,Zr57xG-CM-17-IMFFAA-2016,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-Zr57xG-CM-18-IMFFAA-2016-1,ocds-lcuori-Zr57xG-CM-18-IMFFAA-2016-1/4,Zr57xG-CM-18-IMFFAA-2016,Zr57xG-CM-18-IMFFAA-2016,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-WRzj0R-LPR-002-2016-2,ocds-lcuori-WRzj0R-LPR-002-2016-2/3,WRzj0R-002-2016-A,WRzj0R-002-2016-A,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-Zr5mWr-PCDC No. 02-2016-SEAPI-UNAH-2,ocds-lcuori-Zr5mWr-PCDC No. 02-2016-SEAPI-UNAH-2/3,Zr5mWr-CC-03-2017-SEAPI-UNAH,Zr5mWr-CC-03-2017-SEAPI-UNAH,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-orvkNL-LPN No.10-2016-SEAF-UNAH-2,ocds-lcuori-orvkNL-LPN No.10-2016-SEAF-UNAH-2/3,orvkNL-03-2017-SEAF-UNAH,orvkNL-03-2017-SEAF-UNAH,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-orvkNL-LPN No.10-2016-SEAF-UNAH-2,ocds-lcuori-orvkNL-LPN No.10-2016-SEAF-UNAH-2/3,orvkNL-04-2017-SEAF-UNAH,orvkNL-04-2017-SEAF-UNAH,suretyBond,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-orvkNL-LPN No.13-2016-SEAF-UNAH-2,ocds-lcuori-orvkNL-LPN No.13-2016-SEAF-UNAH-2/3,orvkNL-32-2016-SEAF-UNAH,orvkNL-32-2016-SEAF-UNAH,suretyBond,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-2LmqDL-LPrNO-369-AMDC-447-2016-2,ocds-lcuori-2LmqDL-LPrNO-369-AMDC-447-2016-2/3,2LmqDL-0415/GLCSI/AMDC/2017,2LmqDL-0415/GLCSI/AMDC/2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-jRDkVG-LP-029-2016-2,ocds-lcuori-jRDkVG-LP-029-2016-2/3,jRDkVG-LP-029-2016,jRDkVG-LP-029-2016,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-MLQnAG-034-2016-HGS-2,ocds-lcuori-MLQnAG-034-2016-HGS-2/3,MLQnAG-034-2016-HGS2,MLQnAG-034-2016-HGS2,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-grxXEr-L.P  061-16-2,ocds-lcuori-grxXEr-L.P  061-16-2/3,grxXEr-2990,grxXEr-2990,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-MLQnAG-036-2016-HGS-2,ocds-lcuori-MLQnAG-036-2016-HGS-2/3,MLQnAG-036-2016-HGS2,MLQnAG-036-2016-HGS2,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-MLQnAG-038-2016-HGS-2,ocds-lcuori-MLQnAG-038-2016-HGS-2/3,MLQnAG-038-2016-HGS2,MLQnAG-038-2016-HGS2,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-MLQnAG-038-2016-HGS-2,ocds-lcuori-MLQnAG-038-2016-HGS-2/3,MLQnAG-038-2016-HGS3,MLQnAG-038-2016-HGS3,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-MLQnAG-039-2016-HGS-2,ocds-lcuori-MLQnAG-039-2016-HGS-2/3,MLQnAG-039-2016-HGS2,MLQnAG-039-2016-HGS2,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-MLQnAG-040-2016-HGS-2,ocds-lcuori-MLQnAG-040-2016-HGS-2/3,MLQnAG-040-2016-HGS2,MLQnAG-040-2016-HGS2,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-grxXEr-LP. 024-16-2,ocds-lcuori-grxXEr-LP. 024-16-2/3,grxXEr-2905,grxXEr-2905,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-kR0qDr-LPN-12-2016-2,ocds-lcuori-kR0qDr-LPN-12-2016-2/3,kR0qDr-01-2017,kR0qDr-01-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-NLP4qL-LPNS-003-2016-2,ocds-lcuori-NLP4qL-LPNS-003-2016-2/3,NLP4qL-CB-001-2016,NLP4qL-CB-001-2016,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-JLKQxR-LP.031-16-2,ocds-lcuori-JLKQxR-LP.031-16-2/3,JLKQxR-3622,JLKQxR-3622,suretyBond,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-lRo92L-A-27-2,ocds-lcuori-lRo92L-A-27-2/3,lRo92L-16-35,lRo92L-16-35,suretyBond,GDRW5Lg,Seguros Atlántida S.A.
+ocds-lcuori-lRo92L-A-28-2,ocds-lcuori-lRo92L-A-28-2/3,lRo92L-16-36,lRo92L-16-36,suretyBond,GDRW5Lg,Seguros Atlántida S.A.
+ocds-lcuori-jRDkVG-LP-7-2016-2,ocds-lcuori-jRDkVG-LP-7-2016-2/3,jRDkVG-LP-7-2016,jRDkVG-LP-7-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-jRDkVG-LP-011-21016-2,ocds-lcuori-jRDkVG-LP-011-21016-2/3,jRDkVG-LP-011-2016,jRDkVG-LP-011-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-22-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-22-2016-HO-OBRAS-2/3,PR8wNG-17-2016,PR8wNG-17-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-34-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-34-2016-HO-OBRAS-2/3,PR8wNG-03-2017,PR8wNG-03-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-35-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-35-2016-HO-OBRAS-2/3,PR8wNG-13-2017,PR8wNG-13-2017,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-36-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-36-2016-HO-OBRAS-2/3,PR8wNG-05-2017,PR8wNG-05-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-jRDkVG-LP-020-2016-2,ocds-lcuori-jRDkVG-LP-020-2016-2/3,jRDkVG-LP-020-2016,jRDkVG-LP-020-2016,check,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-23-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-23-2016-HO-OBRAS-2/3,PR8wNG-04-2016,PR8wNG-04-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-jRDkVG-LP-021-2016-2,ocds-lcuori-jRDkVG-LP-021-2016-2/3,jRDkVG-LP-021-2016,jRDkVG-LP-021-2016,check,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-37-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-37-2016-HO-OBRAS-2/3,PR8wNG-01-2017,PR8wNG-01-2017,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-24-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-24-2016-HO-OBRAS-2/3,PR8wNG-11-2016,PR8wNG-11-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-jRDkVG-LP-05-2016-2,ocds-lcuori-jRDkVG-LP-05-2016-2/3,jRDkVG-LP-05-2016,jRDkVG-LP-05-2016,check,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-38-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-38-2016-HO-OBRAS-2/3,PR8wNG-06-2017,PR8wNG-06-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-jRDkVG-LP-06-2016-2,ocds-lcuori-jRDkVG-LP-06-2016-2/3,jRDkVG-LP-06-2016,jRDkVG-LP-06-2016,check,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-MLQW8R-20-2016-2,ocds-lcuori-MLQW8R-20-2016-2/3,MLQW8R-1247,MLQW8R-1247,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-39-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-39-2016-HO-OBRAS-2/3,PR8wNG-02-2017,PR8wNG-02-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-40-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-40-2016-HO-OBRAS-2/3,PR8wNG-08-2017,PR8wNG-08-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-41-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-41-2016-HO-OBRAS-2/3,PR8wNG-11-2017,PR8wNG-11-2017,suretyBond,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-42-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-42-2016-HO-OBRAS-2/3,PR8wNG-09-2017,PR8wNG-09-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-43-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-43-2016-HO-OBRAS-2/3,PR8wNG-04-2017,PR8wNG-04-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-44-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-44-2016-HO-OBRAS-2/3,PR8wNG-12-2017,PR8wNG-12-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-45-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-45-2016-HO-OBRAS-2/3,PR8wNG-14-2017,PR8wNG-14-2017,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-WRzdbL-LP-002-2016-HT-2,ocds-lcuori-WRzdbL-LP-002-2016-HT-2/3,WRzdbL-018-2016,WRzdbL-018-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-47-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS-PRONADERS-LPRI-47-2016-HO-OBRAS-2/3,PR8wNG-07-2017,PR8wNG-07-2017,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-WRzdbL-LP-003-2016-HT-2,ocds-lcuori-WRzdbL-LP-003-2016-HT-2/3,WRzdbL-019-2016,WRzdbL-019-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-kR2qdG-LP-25-HRSC-2016-2,ocds-lcuori-kR2qdG-LP-25-HRSC-2016-2/3,kR2qdG-45,kR2qdG-45,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-WRzdbL-LP-004-2016-HT-2,ocds-lcuori-WRzdbL-LP-004-2016-HT-2/3,WRzdbL-020-2016,WRzdbL-020-2016,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-MLQnAG-008-2016-HGS06-2,ocds-lcuori-MLQnAG-008-2016-HGS06-2/3,MLQnAG-008-2016-HGS06,MLQnAG-008-2016-HGS06,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-jRDkVG-LP-08-2016-2,ocds-lcuori-jRDkVG-LP-08-2016-2/3,jRDkVG-LP-08-2016,jRDkVG-LP-08-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-WRzdbL-LP-005-2016-HT-2,ocds-lcuori-WRzdbL-LP-005-2016-HT-2/3,WRzdbL-021-2016,WRzdbL-021-2016,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-kR2qdG-LP-03-HRSC-2016-2,ocds-lcuori-kR2qdG-LP-03-HRSC-2016-2/3,kR2qdG-06,kR2qdG-06,check,GorvDGM,Banco Hondureño del Café S.A.
+ocds-lcuori-MrM0xR-LP 001-2016-2,ocds-lcuori-MrM0xR-LP 001-2016-2/3,MrM0xR-1423,MrM0xR-1423,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-MLQW8R-09-2016-2,ocds-lcuori-MLQW8R-09-2016-2/3,MLQW8R-1228,MLQW8R-1228,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-WRzdbL-LP-006-2016-HT-2,ocds-lcuori-WRzdbL-LP-006-2016-HT-2/3,WRzdbL-022-2016,WRzdbL-022-2016,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-orvkNL-LPR No.01-2016-2,ocds-lcuori-orvkNL-LPR No.01-2016-2/3,orvkNL-28-2016-SEAF-UNAH,orvkNL-28-2016-SEAF-UNAH,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-WRzdbL-LP-007-2016-HT-2,ocds-lcuori-WRzdbL-LP-007-2016-HT-2/3,WRzdbL-024-2016,WRzdbL-024-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-MLQnAG-007-2016-hs-2,ocds-lcuori-MLQnAG-007-2016-hs-2/3,MLQnAG-007-2016-hs,MLQnAG-007-2016-hs,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-7GX4eG-LP-002-2016-2,ocds-lcuori-7GX4eG-LP-002-2016-2/3,7GX4eG-004-2016,7GX4eG-004-2016,suretyBond,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-Zr57xG-CM-006-IMFFAA-2016-1,ocds-lcuori-Zr57xG-CM-006-IMFFAA-2016-1/4,Zr57xG-CM-006-IMFFAA-2016,Zr57xG-CM-006-IMFFAA-2016,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS LPRI 27 2016 HO OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS LPRI 27 2016 HO OBRAS-2/3,PR8wNG-28-2016,PR8wNG-28-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-8L47Pr-L-P 038-2016-2,ocds-lcuori-8L47Pr-L-P 038-2016-2/3,8L47Pr-295-2016,8L47Pr-295-2016,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-orvDGM-LPN-SANAA-DM-17-2016-2,ocds-lcuori-orvDGM-LPN-SANAA-DM-17-2016-2/3,orvDGM-DLC-SANAA-1-2017,orvDGM-DLC-SANAA-1-2017,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-grxXEr-LP. 045-16-2,ocds-lcuori-grxXEr-LP. 045-16-2/3,grxXEr-2939,grxXEr-2939,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-grxXEr-LP. 046-16-2,ocds-lcuori-grxXEr-LP. 046-16-2/3,grxXEr-2940,grxXEr-2940,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-WRzj0R-LPU-004-2016-2,ocds-lcuori-WRzj0R-LPU-004-2016-2/3,WRzj0R-004-2016,WRzj0R-004-2016,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-8L47Pr-L-P 037-2016-2,ocds-lcuori-8L47Pr-L-P 037-2016-2/3,8L47Pr-291-2016,8L47Pr-291-2016,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-kR2qdG-LP-29-HRSC-2016-2,ocds-lcuori-kR2qdG-LP-29-HRSC-2016-2/3,kR2qdG-65,kR2qdG-65,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-2LApxr-LPN MITIGAR OBRAS 01 2016-2,ocds-lcuori-2LApxr-LPN MITIGAR OBRAS 01 2016-2/3,2LApxr-MITIGAR OBRAS 01 2017,2LApxr-MITIGAR OBRAS 01 2017,suretyBond,G7GXMRV,Banco del País S.A.
+ocds-lcuori-ZGqW9r-LPN-013-IPM-2016-2,ocds-lcuori-ZGqW9r-LPN-013-IPM-2016-2/3,ZGqW9r-LPN-0132-IPM-2016,ZGqW9r-LPN-0132-IPM-2016,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-ZGqW9r-LPN-013-IPM-2016-2,ocds-lcuori-ZGqW9r-LPN-013-IPM-2016-2/3,ZGqW9r-LPN-013-IPM-2016,ZGqW9r-LPN-013-IPM-2016,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-ZGqW9r-LPN-013-IPM-2016-2,ocds-lcuori-ZGqW9r-LPN-013-IPM-2016-2/3,ZGqW9r-LPN-013-IPM-2016-2,ZGqW9r-LPN-013-IPM-2016-2,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-WRzdbL-LP-008-2016-HT-2,ocds-lcuori-WRzdbL-LP-008-2016-HT-2/3,WRzdbL-027-2016,WRzdbL-027-2016,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-7rBxpG-BCH-T4060-69-1,ocds-lcuori-7rBxpG-BCH-T4060-69-1/3,7rBxpG-054-2016,7rBxpG-054-2016,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-7rBxpG-BCH-T4084-70-1,ocds-lcuori-7rBxpG-BCH-T4084-70-1/3,7rBxpG-80-2016,7rBxpG-80-2016,suretyBond,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-01-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-01-2016-2/3,wrV3LP-56291,wrV3LP-56291,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-orvkNL-LPN No.18-2016-SEAF-UNAH-2,ocds-lcuori-orvkNL-LPN No.18-2016-SEAF-UNAH-2/4,orvkNL-11-2017-SEAF-UNAH,orvkNL-11-2017-SEAF-UNAH,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS LPRI 48 2016 HO OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS LPRI 48 2016 HO OBRAS-2/3,PR8wNG-15-2017,PR8wNG-15-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-grxXEr-LP. 070-16-2,ocds-lcuori-grxXEr-LP. 070-16-2/3,grxXEr-3009,grxXEr-3009,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS LPRI 49 2016 HO OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS LPRI 49 2016 HO OBRAS-2/3,PR8wNG-17-2017,PR8wNG-17-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS LPRI 28 2016 HO OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS LPRI 28 2016 HO OBRAS-2/3,PR8wNG-25-2016,PR8wNG-25-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS LPRI 50 2016 HO OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS LPRI 50 2016 HO OBRAS-2/3,PR8wNG-16-2017,PR8wNG-16-2017,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-PR8wNG-DECOAS PRONADERS LPRI 29 2016 HO OBRAS-2,ocds-lcuori-PR8wNG-DECOAS PRONADERS LPRI 29 2016 HO OBRAS-2/3,PR8wNG-29-2016,PR8wNG-29-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-PR8M9r-LP-IP-001-2016-2,ocds-lcuori-PR8M9r-LP-IP-001-2016-2/4,PR8M9r-008-2016,PR8M9r-008-2016,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-7rBxpG-LPública No.11-2016-2,ocds-lcuori-7rBxpG-LPública No.11-2016-2/4,7rBxpG-70-2016,7rBxpG-70-2016,suretyBond,G7GXMRV,Banco del País S.A.
+ocds-lcuori-gRNDyL-016-03-2016-2,ocds-lcuori-gRNDyL-016-03-2016-2/3,gRNDyL-025-03-2016,gRNDyL-025-03-2016,check,GorvDGM,Banco Hondureño del Café S.A.
+ocds-lcuori-ZGqW9r-LPN-012-IPM-2016-2,ocds-lcuori-ZGqW9r-LPN-012-IPM-2016-2/3,ZGqW9r-LPN-012-IPM-2016,ZGqW9r-LPN-012-IPM-2016,suretyBond,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-125-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-125-2016-2/3,wrV3LP-59600,wrV3LP-59600,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-grxXEr-LP. 067-16-2,ocds-lcuori-grxXEr-LP. 067-16-2/3,grxXEr-3001,grxXEr-3001,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-126-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-126-2016-2/3,wrV3LP-59574,wrV3LP-59574,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-grxXEr-LP. 068-16-2,ocds-lcuori-grxXEr-LP. 068-16-2/3,grxXEr-3002,grxXEr-3002,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-128-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-128-2016-2/3,wrV3LP-59575,wrV3LP-59575,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-129-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-129-2016-2/3,wrV3LP-59581,wrV3LP-59581,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-MLQnAG-019-2016-hrs-2,ocds-lcuori-MLQnAG-019-2016-hrs-2/3,MLQnAG-019-2016-hrs,MLQnAG-019-2016-hrs,check,G7G3yrQ,Banco Promerica S.A.
+ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-31-2016-2,ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-31-2016-2/3,wrV3LP-59631,wrV3LP-59631,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-NLP4qL-LPI-001-2016-2,ocds-lcuori-NLP4qL-LPI-001-2016-2/3,NLP4qL-CB-005-2016 ,NLP4qL-CB-005-2016 ,suretyBond,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-NLP4qL-LPI-001-2016-2,ocds-lcuori-NLP4qL-LPI-001-2016-2/3,NLP4qL-SEFIN-UAP/AIF-5270-HO/No. CB-005-2016 ,NLP4qL-SEFIN-UAP/AIF-5270-HO/No. CB-005-2016 ,suretyBond,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-WRzdbL-LP-025-2016-HT-2,ocds-lcuori-WRzdbL-LP-025-2016-HT-2/3,WRzdbL-0083-2016,WRzdbL-0083-2016,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-WRzdbL-LP-025-2016-HT-2,ocds-lcuori-WRzdbL-LP-025-2016-HT-2/3,WRzdbL-083-2016,WRzdbL-083-2016,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-lRo92L-A-21-2,ocds-lcuori-lRo92L-A-21-2/3,lRo92L-16-28,lRo92L-16-28,suretyBond,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-WRzdbL-LP-026-2016-HT-2,ocds-lcuori-WRzdbL-LP-026-2016-HT-2/3,WRzdbL-084-2016,WRzdbL-084-2016,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-jRDkVG-LP-8-2016-2,ocds-lcuori-jRDkVG-LP-8-2016-2/3,jRDkVG-LP-8-2016,jRDkVG-LP-8-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-jRDkVG-LP-013-2016-2,ocds-lcuori-jRDkVG-LP-013-2016-2/3,jRDkVG-LP-013-2016,jRDkVG-LP-013-2016,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-grxXEr-L.P. 062-16-2,ocds-lcuori-grxXEr-L.P. 062-16-2/3,grxXEr-2991,grxXEr-2991,check,GkR05rP,Banco de Honduras S.A.
+ocds-lcuori-7rBxpG-LPública No.06-2016-2,ocds-lcuori-7rBxpG-LPública No.06-2016-2/3,7rBxpG-65-2016,7rBxpG-65-2016,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-MLQnAG-047-2016-HGS-2,ocds-lcuori-MLQnAG-047-2016-HGS-2/3,MLQnAG-047-2016-HGS,MLQnAG-047-2016-HGS,check,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-MLQnAG-048-2016-HGS-2,ocds-lcuori-MLQnAG-048-2016-HGS-2/3,MLQnAG-048-2016-HGS,MLQnAG-048-2016-HGS,check,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-WRzdbL-LP-027-2016-HT-2,ocds-lcuori-WRzdbL-LP-027-2016-HT-2/3,WRzdbL-085-2016,WRzdbL-085-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-WRzdbL-LP-028-2016-HT-2,ocds-lcuori-WRzdbL-LP-028-2016-HT-2/3,WRzdbL-086-2016,WRzdbL-086-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-WRzdbL-LP-029-2016-HT-2,ocds-lcuori-WRzdbL-LP-029-2016-HT-2/3,WRzdbL-087-2016,WRzdbL-087-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-7rBxpG-CDirecta No.10-2016-2,ocds-lcuori-7rBxpG-CDirecta No.10-2016-2/3,7rBxpG-043-2017,7rBxpG-043-2017,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-grxy3L-LP-025-2016-2,ocds-lcuori-grxy3L-LP-025-2016-2/3,grxy3L-LP-025-2016,grxy3L-LP-025-2016,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-0rw5YG-11-3-2016-2,ocds-lcuori-0rw5YG-11-3-2016-2/3,0rw5YG-11-3-2016,0rw5YG-11-3-2016,check,GkR05rP,Banco de Honduras S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-07-2016 2° PROCESO-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-07-2016 2° PROCESO-2/3,wrV3LP-56211,wrV3LP-56211,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-10--2016 2° PROCESO-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-10--2016 2° PROCESO-2/3,wrV3LP-56221,wrV3LP-56221,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-17-2016 2° PROCESO-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-17-2016 2° PROCESO-2/3,wrV3LP-56216,wrV3LP-56216,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrVn3r-CC74-HSI-2016-1,ocds-lcuori-wrVn3r-CC74-HSI-2016-1/3,wrVn3r-74-16,wrVn3r-74-16,,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-grxXEr-L.P. 063-16-2,ocds-lcuori-grxXEr-L.P. 063-16-2/3,grxXEr-2992,grxXEr-2992,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-gLkVEr-CP-CONADEH-011-2016-2,ocds-lcuori-gLkVEr-CP-CONADEH-011-2016-2/4,gLkVEr-C-01-2017,gLkVEr-C-01-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-orvDGM-LPN-GRH-06-2016-2,ocds-lcuori-orvDGM-LPN-GRH-06-2016-2/3,orvDGM-SANAA-DLC-10-2016,orvDGM-SANAA-DLC-10-2016,suretyBond,GgrxELe,Equidad Compañía de Seguros S.A.
+ocds-lcuori-MLQnAG-010-2016-HRS-2,ocds-lcuori-MLQnAG-010-2016-HRS-2/3,MLQnAG-010-2016-HRS,MLQnAG-010-2016-HRS,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-MLQnAG-022-2016-hs-2,ocds-lcuori-MLQnAG-022-2016-hs-2/3,MLQnAG-022-2016-hs,MLQnAG-022-2016-hs,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-MLQnAG-011-2016-HRS-2,ocds-lcuori-MLQnAG-011-2016-HRS-2/3,MLQnAG-011-2016-HRS,MLQnAG-011-2016-HRS,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-7rBxpG-LPública No.40-2016-2,ocds-lcuori-7rBxpG-LPública No.40-2016-2/3,7rBxpG-058-2017,7rBxpG-058-2017,suretyBond,GNLPKrv,Compañía de Seguros Interamericana S.A.
+ocds-lcuori-7rBxpG-LPública No.40-2016-2,ocds-lcuori-7rBxpG-LPública No.40-2016-2/3,7rBxpG-062-2017,7rBxpG-062-2017,suretyBond,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-MLQnAG-012-2016-HRS-2,ocds-lcuori-MLQnAG-012-2016-HRS-2/3,MLQnAG-012-2016-HRS2,MLQnAG-012-2016-HRS2,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-MLQnAG-013-2016-HRS-2,ocds-lcuori-MLQnAG-013-2016-HRS-2/3,MLQnAG-013-2016-HRS2,MLQnAG-013-2016-HRS2,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-MLQnAG-027-2016-HS-2,ocds-lcuori-MLQnAG-027-2016-HS-2/3,MLQnAG-027-2016-HS,MLQnAG-027-2016-HS,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-MLQnAG-028-2016-HS-2,ocds-lcuori-MLQnAG-028-2016-HS-2/3,MLQnAG-028-2016-HS,MLQnAG-028-2016-HS,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-grxy3L-LP-024-2016-2,ocds-lcuori-grxy3L-LP-024-2016-2/3,grxy3L-LP-024-2016,grxy3L-LP-024-2016,check,GkR05rP,Banco de Honduras S.A.
+ocds-lcuori-grxy3L-LP-026-2016-2,ocds-lcuori-grxy3L-LP-026-2016-2/3,grxy3L-LP-026-2016,grxy3L-LP-026-2016,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-grxy3L-LP-027-2016-2,ocds-lcuori-grxy3L-LP-027-2016-2/3,grxy3L-LP-027-2016,grxy3L-LP-027-2016,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-MLQW8R-1262-2016-1,ocds-lcuori-MLQW8R-1262-2016-1/3,MLQW8R-1262,MLQW8R-1262,suretyBond,G7rBOL0,Pan American Life Insurance Company
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS LPRI 30 2016 HO OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS LPRI 30 2016 HO OBRAS-2/3,PR8wNG-27-2016,PR8wNG-27-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS LPRI 31 2016 HO OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS LPRI 31 2016 HO OBRAS-2/3,PR8wNG-26-2016,PR8wNG-26-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-grxy3L-LP-030-2016-2,ocds-lcuori-grxy3L-LP-030-2016-2/3,grxy3L-LP-030-2016,grxy3L-LP-030-2016,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS LPRI 32 2016 HO OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS LPRI 32 2016 HO OBRAS-2/3,PR8wNG-24-2016,PR8wNG-24-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-WRzdbL-LP-036-2016-HT-2,ocds-lcuori-WRzdbL-LP-036-2016-HT-2/3,WRzdbL-114-2016,WRzdbL-114-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-kR2qdG-LP-17-HRSC-2016-2,ocds-lcuori-kR2qdG-LP-17-HRSC-2016-2/3,kR2qdG-28,kR2qdG-28,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-kR2qdG-LP-18-HRSC-2016-2,ocds-lcuori-kR2qdG-LP-18-HRSC-2016-2/3,kR2qdG-29,kR2qdG-29,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-7rBxpG-LPública No.25-2016-2,ocds-lcuori-7rBxpG-LPública No.25-2016-2/3,7rBxpG-009-2017,7rBxpG-009-2017,suretyBond,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-7rBxpG-LPública No.25-2016-2,ocds-lcuori-7rBxpG-LPública No.25-2016-2/3,7rBxpG-013-2017,7rBxpG-013-2017,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-7rBxpG-LPública No.25-2016-2,ocds-lcuori-7rBxpG-LPública No.25-2016-2/3,7rBxpG-017-2017,7rBxpG-017-2017,suretyBond,G7GXMRV,Banco del País S.A.
+ocds-lcuori-kR2qdG-LP-19-HRSC-2016-2,ocds-lcuori-kR2qdG-LP-19-HRSC-2016-2/3,kR2qdG-30,kR2qdG-30,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-Zr57xG-CM-007-IMFFAA-2016-1,ocds-lcuori-Zr57xG-CM-007-IMFFAA-2016-1/4,Zr57xG-CM-007-IMFFAA-2016,Zr57xG-CM-007-IMFFAA-2016,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-8L47Pr-COT. 138-2016-1,ocds-lcuori-8L47Pr-COT. 138-2016-1/3,8L47Pr-235-2016,8L47Pr-235-2016,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-orvDGM-LPN-DM-15-2016-2,ocds-lcuori-orvDGM-LPN-DM-15-2016-2/3,orvDGM-DLC-SANAA-03-2017,orvDGM-DLC-SANAA-03-2017,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-2LApxr-LPN MITIGAR OBRAS 02 2016-2,ocds-lcuori-2LApxr-LPN MITIGAR OBRAS 02 2016-2/3,2LApxr-MITIGAR-OBRAS-02-2017,2LApxr-MITIGAR-OBRAS-02-2017,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-wrVn3r-LP02-HSI-2016-2,ocds-lcuori-wrVn3r-LP02-HSI-2016-2/3,wrVn3r-02-16,wrVn3r-02-16,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-wrVn3r-CC06-HSI-2016-1,ocds-lcuori-wrVn3r-CC06-HSI-2016-1/3,wrVn3r-06-16,wrVn3r-06-16,,G7GXMRV,Banco del País S.A.
+ocds-lcuori-JLKQxR-LP.043-2016-2,ocds-lcuori-JLKQxR-LP.043-2016-2/3,JLKQxR-3672,JLKQxR-3672,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GX4eG-LPN-INE-002-2016-2,ocds-lcuori-7GX4eG-LPN-INE-002-2016-2/3,7GX4eG-03-2016,7GX4eG-03-2016,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-7G3MNr-LPRI 172016-2,ocds-lcuori-7G3MNr-LPRI 172016-2/3,7G3MNr-LPRI 172016,7G3MNr-LPRI 172016,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-mGE4eL-LPN-IDECOAS-FHIS-19-2016-2,ocds-lcuori-mGE4eL-LPN-IDECOAS-FHIS-19-2016-2/3,mGE4eL-LPN-IDECOAS-FHIS-19-2016,mGE4eL-LPN-IDECOAS-FHIS-19-2016,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-MLQnAG-023-2016-HRS-2,ocds-lcuori-MLQnAG-023-2016-HRS-2/3,MLQnAG-023-2016-HRS,MLQnAG-023-2016-HRS,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-27-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-27-2016-2/3,wrV3LP-57956,wrV3LP-57956,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-30-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-30-2016-2/3,wrV3LP-56245,wrV3LP-56245,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-MLQnAG-017-2016-HRS-2,ocds-lcuori-MLQnAG-017-2016-HRS-2/3,MLQnAG-017-2016-HRS,MLQnAG-017-2016-HRS,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-mGEvMR-LPRIV 11-2016-2,ocds-lcuori-mGEvMR-LPRIV 11-2016-2/3,mGEvMR-LPRIV 11-2016,mGEvMR-LPRIV 11-2016,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-21-2016-2,ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-21-2016-2/3,mGE4eL-57866,mGE4eL-57866,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-jRDkVG-LP-023-2016-2,ocds-lcuori-jRDkVG-LP-023-2016-2/3,jRDkVG-LP-023-2016,jRDkVG-LP-023-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-orvwoL-LPN-02-EQUIPAMIENTO-UNA-PINPROS-2016-2,ocds-lcuori-orvwoL-LPN-02-EQUIPAMIENTO-UNA-PINPROS-2016-2/4,orvwoL-EQUIPAMIENTO-001-UNA-PINPROS-2017,orvwoL-EQUIPAMIENTO-001-UNA-PINPROS-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-18-2016-2,ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-18-2016-2/3,wrV3LP-58507,wrV3LP-58507,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-17-2016-2,ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-17-2016-2/3,wrV3LP-58536,wrV3LP-58536,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-WRzj0R-LPU-006-2016-2,ocds-lcuori-WRzj0R-LPU-006-2016-2/3,WRzj0R-006-2016,WRzj0R-006-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-7GXMRV-LP-004-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-004-DGOP-OO.UU.-2016-2/3,7GXMRV-No.088-CO-DGOP-INSEP-2016,7GXMRV-No.088-CO-DGOP-INSEP-2016,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-53-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-53-2016-2/3,wrV3LP-58354,wrV3LP-58354,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-54-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-54-2016-2/3,wrV3LP-58242,wrV3LP-58242,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-WRzj0R-LPU-007-2016-2,ocds-lcuori-WRzj0R-LPU-007-2016-2/3,WRzj0R-007-2016,WRzj0R-007-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-50-2016-2,ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-50-2016-2/3,mGE4eL-58519,mGE4eL-58519,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-61-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-61-2016-2/3,wrV3LP-58524,wrV3LP-58524,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-58-2016-2,ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-58-2016-2/3,mGE4eL-106423,mGE4eL-106423,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-WRzj0R-LPU-010-2016-2,ocds-lcuori-WRzj0R-LPU-010-2016-2/3,WRzj0R-010-2016,WRzj0R-010-2016,suretyBond,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-WRzj0R-LPU-011-2016-2,ocds-lcuori-WRzj0R-LPU-011-2016-2/3,WRzj0R-011-2016,WRzj0R-011-2016,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-WRzj0R-LPU-011-2016-2,ocds-lcuori-WRzj0R-LPU-011-2016-2/3,WRzj0R-011-2016-A,WRzj0R-011-2016-A,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-8L47Pr-L-P 034-2016-2,ocds-lcuori-8L47Pr-L-P 034-2016-2/3,8L47Pr-247-2016,8L47Pr-247-2016,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-wrVn3r-LP10-HSI-2016-2,ocds-lcuori-wrVn3r-LP10-HSI-2016-2/3,wrVn3r-10-16,wrVn3r-10-16,,G7GXMRV,Banco del País S.A.
+ocds-lcuori-WRzj0R-LPU-012-2016-2,ocds-lcuori-WRzj0R-LPU-012-2016-2/3,WRzj0R-012-2016,WRzj0R-012-2016,suretyBond,GorvDGM,Banco Hondureño del Café S.A.
+ocds-lcuori-WRzj0R-LPU-012-2016-2,ocds-lcuori-WRzj0R-LPU-012-2016-2/3,WRzj0R-016-2016,WRzj0R-016-2016,suretyBond,GorvDGM,Banco Hondureño del Café S.A.
+ocds-lcuori-wrVn3r-LP12-HSI-2016-2,ocds-lcuori-wrVn3r-LP12-HSI-2016-2/3,wrVn3r-12-16,wrVn3r-12-16,,G7GXMRV,Banco del País S.A.
+ocds-lcuori-wrVn3r-LP13-HSI-2016-2,ocds-lcuori-wrVn3r-LP13-HSI-2016-2/3,wrVn3r-13-16,wrVn3r-13-16,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-wrVn3r-LP14-HSI-2016-2,ocds-lcuori-wrVn3r-LP14-HSI-2016-2/3,wrVn3r-14-16,wrVn3r-14-16,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-wrVn3r-LP15-HSI-2016-2,ocds-lcuori-wrVn3r-LP15-HSI-2016-2/3,wrVn3r-15-16,wrVn3r-15-16,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-yRlaDr-LP. 022-2016-RSDCH-2,ocds-lcuori-yRlaDr-LP. 022-2016-RSDCH-2/3,yRlaDr-069-16,yRlaDr-069-16,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-JLKQxR-LP. 024-16-2,ocds-lcuori-JLKQxR-LP. 024-16-2/3,JLKQxR-3613,JLKQxR-3613,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-orvkNL-LPN No.19-2016-SEAF-UNAH-2,ocds-lcuori-orvkNL-LPN No.19-2016-SEAF-UNAH-2/3,orvkNL-51-2017-SEAF-UNAH,orvkNL-51-2017-SEAF-UNAH,suretyBond,G7G3yrQ,Banco Promerica S.A.
+ocds-lcuori-orvkNL-LPN No.19-2016-SEAF-UNAH-2,ocds-lcuori-orvkNL-LPN No.19-2016-SEAF-UNAH-2/3,orvkNL-52-2017-SEAF-UNAH,orvkNL-52-2017-SEAF-UNAH,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-orvkNL-LPN No.19-2016-SEAF-UNAH-2,ocds-lcuori-orvkNL-LPN No.19-2016-SEAF-UNAH-2/3,orvkNL-53-2017-SEAF-UNAH,orvkNL-53-2017-SEAF-UNAH,suretyBond,GPR85r9,"DAVIVIENDA HONDURAS, S. A. "
+ocds-lcuori-orvkNL-LPN No.19-2016-SEAF-UNAH-2,ocds-lcuori-orvkNL-LPN No.19-2016-SEAF-UNAH-2/3,orvkNL-54-2017-SEAF-UNAH,orvkNL-54-2017-SEAF-UNAH,suretyBond,GNLPKrv,Compañía de Seguros Interamericana S.A.
+ocds-lcuori-orvkNL-LPN No.19-2016-SEAF-UNAH-2,ocds-lcuori-orvkNL-LPN No.19-2016-SEAF-UNAH-2/3,orvkNL-55-2017-SEAF-UNAH,orvkNL-55-2017-SEAF-UNAH,suretyBond,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-yRlaDr-LP. 023-2016-RSDCH-2,ocds-lcuori-yRlaDr-LP. 023-2016-RSDCH-2/3,yRlaDr-070-16,yRlaDr-070-16,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-MLQW8R-21-2016-2,ocds-lcuori-MLQW8R-21-2016-2/3,MLQW8R-1253,MLQW8R-1253,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-7GX4eG-LP-001-2016-2,ocds-lcuori-7GX4eG-LP-001-2016-2/3,7GX4eG-LP-001-2016,7GX4eG-LP-001-2016,suretyBond,GDRW5Lg,Seguros Atlántida S.A.
+ocds-lcuori-ZGqW9r-LPN-009-IPM-2016-2,ocds-lcuori-ZGqW9r-LPN-009-IPM-2016-2/3,ZGqW9r-ADE-LPN-009-IPM-2016,ZGqW9r-ADE-LPN-009-IPM-2016,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-ZGqW9r-LPN-009-IPM-2016-2,ocds-lcuori-ZGqW9r-LPN-009-IPM-2016-2/3,ZGqW9r-LPN-009-IPM-2016,ZGqW9r-LPN-009-IPM-2016,suretyBond,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-kR2qdG-LP-20-HRSC-2016-2,ocds-lcuori-kR2qdG-LP-20-HRSC-2016-2/3,kR2qdG-31,kR2qdG-31,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-ZGqW9r-LPP-006-IPM-2016-2,ocds-lcuori-ZGqW9r-LPP-006-IPM-2016-2/3,ZGqW9r-LPP-006-IPM-2016,ZGqW9r-LPP-006-IPM-2016,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-7rBxpG-L Pública No.17-2016-2,ocds-lcuori-7rBxpG-L Pública No.17-2016-2/3,7rBxpG-005-2017,7rBxpG-005-2017,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-7rBxpG-L Pública No.17-2016-2,ocds-lcuori-7rBxpG-L Pública No.17-2016-2/3,7rBxpG-007-2017,7rBxpG-007-2017,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-jRDkVG-LP-024-2016-2,ocds-lcuori-jRDkVG-LP-024-2016-2/3,jRDkVG-LP-024-2016,jRDkVG-LP-024-2016,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-Zr5mWr-LP No. 03-2016-SEAPI-UNAH-2,ocds-lcuori-Zr5mWr-LP No. 03-2016-SEAPI-UNAH-2/3,Zr5mWr-CC-08-2016-SEAPI-UNAH,Zr5mWr-CC-08-2016-SEAPI-UNAH,suretyBond,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-jRDkVG-LP-025-2016-2,ocds-lcuori-jRDkVG-LP-025-2016-2/3,jRDkVG-LP-025-2016,jRDkVG-LP-025-2016,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-8L48vL-CM-013-USINIEH-2016-1,ocds-lcuori-8L48vL-CM-013-USINIEH-2016-1/3,8L48vL-CM-013-USINIEH-2016,8L48vL-CM-013-USINIEH-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-grxXEr-LP. 021-16-2,ocds-lcuori-grxXEr-LP. 021-16-2/3,grxXEr-2899,grxXEr-2899,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-07-2016-2,ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-07-2016-2/3,"wrV3LP-56958,56612,56681","wrV3LP-56958,56612,56681",suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-8L47Pr-L-P 035-2016-2,ocds-lcuori-8L47Pr-L-P 035-2016-2/3,8L47Pr-248-2016,8L47Pr-248-2016,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-wrVn3r-LP31-HSI-2016-2,ocds-lcuori-wrVn3r-LP31-HSI-2016-2/3,wrVn3r-31-16,wrVn3r-31-16,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-wrVn3r-LP33-HSI-2016-2,ocds-lcuori-wrVn3r-LP33-HSI-2016-2/3,wrVn3r-33-16,wrVn3r-33-16,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-wrVn3r-LP34-HSI-2016-2,ocds-lcuori-wrVn3r-LP34-HSI-2016-2/3,wrVn3r-34-16,wrVn3r-34-16,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-wrVn3r-LP35-HSI-2016-2,ocds-lcuori-wrVn3r-LP35-HSI-2016-2/3,wrVn3r-35-16,wrVn3r-35-16,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-wrVn3r-LP37-HSI-2016-2,ocds-lcuori-wrVn3r-LP37-HSI-2016-2/3,wrVn3r-37-16,wrVn3r-37-16,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-wrVn3r-LP38-HSI-2016-2,ocds-lcuori-wrVn3r-LP38-HSI-2016-2/3,wrVn3r-38-16,wrVn3r-38-16,,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-wrVn3r-LP39-HSI-2016-2,ocds-lcuori-wrVn3r-LP39-HSI-2016-2/3,wrVn3r-39-16,wrVn3r-39-16,,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-wrVn3r-LP40-HSI-2016-2,ocds-lcuori-wrVn3r-LP40-HSI-2016-2/3,wrVn3r-40-16,wrVn3r-40-16,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-wrVn3r-LP41-HSI-2016-2,ocds-lcuori-wrVn3r-LP41-HSI-2016-2/3,wrVn3r-41-16,wrVn3r-41-16,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-wrVn3r-LP43-HSI-2016-2,ocds-lcuori-wrVn3r-LP43-HSI-2016-2/3,wrVn3r-43-16,wrVn3r-43-16,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-wrVn3r-LP44-HSI-2016-2,ocds-lcuori-wrVn3r-LP44-HSI-2016-2/3,wrVn3r-44-16,wrVn3r-44-16,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-wrVn3r-LP45-HSI-2016-2,ocds-lcuori-wrVn3r-LP45-HSI-2016-2/3,wrVn3r-45-16,wrVn3r-45-16,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-wrVn3r-CC47-HSI-2016-1,ocds-lcuori-wrVn3r-CC47-HSI-2016-1/3,wrVn3r-47-16,wrVn3r-47-16,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-kR0qDr-LPN-10-2016-2,ocds-lcuori-kR0qDr-LPN-10-2016-2/3,"kR0qDr-23,25,26,27-2017","kR0qDr-23,25,26,27-2017",suretyBond,G7GXMRV,Banco del País S.A.
+ocds-lcuori-wrVn3r-CC49-HSI-2016-1,ocds-lcuori-wrVn3r-CC49-HSI-2016-1/3,wrVn3r-49-16,wrVn3r-49-16,check,GgLkyRb,Seguros HSBC Honduras S.A.
+ocds-lcuori-wrVn3r-CC50-HSI-2016-1,ocds-lcuori-wrVn3r-CC50-HSI-2016-1/3,wrVn3r-50-16,wrVn3r-50-16,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-wrVn3r-CC51-HSI-2016-1,ocds-lcuori-wrVn3r-CC51-HSI-2016-1/3,wrVn3r-51,wrVn3r-51,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-wrVn3r-CC52-HSI-2016-1,ocds-lcuori-wrVn3r-CC52-HSI-2016-1/3,wrVn3r-52-16,wrVn3r-52-16,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-7GXmzR-CD-006-2016 CCIVS-2,ocds-lcuori-7GXmzR-CD-006-2016 CCIVS-2/3,7GXmzR-S5-012-2016 ,7GXmzR-S5-012-2016 ,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-MLQW8R-24-2016-2,ocds-lcuori-MLQW8R-24-2016-2/3,MLQW8R-1247A,MLQW8R-1247A,check,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-2Lmz0G-LPN-004-2016-2,ocds-lcuori-2Lmz0G-LPN-004-2016-2/3,2Lmz0G-001-BANASUPRO-2016,2Lmz0G-001-BANASUPRO-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7rBxpG-LPrivada No.07-2016-2,ocds-lcuori-7rBxpG-LPrivada No.07-2016-2/3,7rBxpG-024-2017,7rBxpG-024-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-jRDkVG-LP-014-2016-2,ocds-lcuori-jRDkVG-LP-014-2016-2/3,jRDkVG-LP-014-2016,jRDkVG-LP-014-2016,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-8L47Pr-COT. 020-2016-1,ocds-lcuori-8L47Pr-COT. 020-2016-1/3,8L47Pr-037-2016,8L47Pr-037-2016,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-8L47Pr-LP-033-2016-2,ocds-lcuori-8L47Pr-LP-033-2016-2/3,8L47Pr-241-2016,8L47Pr-241-2016,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-DRWDDr-LPI 001-DGA-SE-2016-2,ocds-lcuori-DRWDDr-LPI 001-DGA-SE-2016-2/3,DRWDDr-001-2016,DRWDDr-001-2016,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-orvDGM-LPN-DM-13-2016-2,ocds-lcuori-orvDGM-LPN-DM-13-2016-2/3,orvDGM-DLC-SANAA-15-2016,orvDGM-DLC-SANAA-15-2016,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-wrVn3r-LP53-HSI-2016-2,ocds-lcuori-wrVn3r-LP53-HSI-2016-2/3,wrVn3r-53-16,wrVn3r-53-16,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-wrVn3r-LP54-HSI-2016-2,ocds-lcuori-wrVn3r-LP54-HSI-2016-2/3,wrVn3r-54-16,wrVn3r-54-16,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-wrVn3r-LP55-HSI-2016-2,ocds-lcuori-wrVn3r-LP55-HSI-2016-2/3,wrVn3r-55-16,wrVn3r-55-16,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-wrVn3r-LP56-HSI-2016-2,ocds-lcuori-wrVn3r-LP56-HSI-2016-2/3,wrVn3r-56-16,wrVn3r-56-16,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-ERpngL-LP-010-2016-2,ocds-lcuori-ERpngL-LP-010-2016-2/3,ERpngL-010-2016,ERpngL-010-2016,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-wrVn3r-LP57-HSI-2016-2,ocds-lcuori-wrVn3r-LP57-HSI-2016-2/3,wrVn3r-57-16,wrVn3r-57-16,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-mrY67L-LP3509-2016RSGD-2,ocds-lcuori-mrY67L-LP3509-2016RSGD-2/3,mrY67L-LP3509-2016RSGD,mrY67L-LP3509-2016RSGD,suretyBond,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-gRNDyL-012-03-2016-2,ocds-lcuori-gRNDyL-012-03-2016-2/3,gRNDyL-003-03-2016,gRNDyL-003-03-2016,check,GgLkyRb,Seguros HSBC Honduras S.A.
+ocds-lcuori-NLP4qL-LPNS-002-2016-2,ocds-lcuori-NLP4qL-LPNS-002-2016-2/3,NLP4qL-CO-005-2016,NLP4qL-CO-005-2016,suretyBond,GorvDGM,Banco Hondureño del Café S.A.
+ocds-lcuori-MLQW8R-16-2016-2,ocds-lcuori-MLQW8R-16-2016-2/3,MLQW8R-1242,MLQW8R-1242,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-MLQW8R-17-2016-2,ocds-lcuori-MLQW8R-17-2016-2/3,MLQW8R-1243,MLQW8R-1243,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-MLQnAG-018-2016-HRS-2,ocds-lcuori-MLQnAG-018-2016-HRS-2/3,MLQnAG-018-2016-HRS,MLQnAG-018-2016-HRS,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-MLQW8R-08-2016-2,ocds-lcuori-MLQW8R-08-2016-2/3,MLQW8R-1227,MLQW8R-1227,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-grxXEr-L.P 033-16-2,ocds-lcuori-grxXEr-L.P 033-16-2/3,grxXEr-2919,grxXEr-2919,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS LPRI 51 2016 HO OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS LPRI 51 2016 HO OBRAS-2/3,PR8wNG-18-2017,PR8wNG-18-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-grxXEr-L.P. 034-16-2,ocds-lcuori-grxXEr-L.P. 034-16-2/3,grxXEr-2920,grxXEr-2920,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-mGEvMR-LPRIV 09-2016-2,ocds-lcuori-mGEvMR-LPRIV 09-2016-2/3,mGEvMR-LPRIV 09-2016,mGEvMR-LPRIV 09-2016,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-gLkVEr-CD-CONADEH-001-2016-2,ocds-lcuori-gLkVEr-CD-CONADEH-001-2016-2/3,gLkVEr-CD-CONADEH-001-2016,gLkVEr-CD-CONADEH-001-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-13-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-13-2016-2/3,wrV3LP-54655,wrV3LP-54655,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-orvkNL-LPN No.07-2016-2,ocds-lcuori-orvkNL-LPN No.07-2016-2/3,orvkNL-12-2017-SEAF-UNAH,orvkNL-12-2017-SEAF-UNAH,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-orvkNL-LPN No.07-2016-2,ocds-lcuori-orvkNL-LPN No.07-2016-2/3,orvkNL-16-2017-SEAF-UNAH,orvkNL-16-2017-SEAF-UNAH,suretyBond,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-8L48vL-002 USINIEH DGA SE 2016-2,ocds-lcuori-8L48vL-002 USINIEH DGA SE 2016-2/3,8L48vL-001-2017,8L48vL-001-2017,suretyBond,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-16-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-16-2016-2/3,wrV3LP-54075,wrV3LP-54075,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-18-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-18-2016-2/3,wrV3LP-53479,wrV3LP-53479,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-09-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-09-2016-2/3,wrV3LP-56212,wrV3LP-56212,suretyBond,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-kG1ger-lpub 13-2016-2,ocds-lcuori-kG1ger-lpub 13-2016-2/3,kG1ger-30-2016,kG1ger-30-2016,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-kG1ger-lpub 15-2016-2,ocds-lcuori-kG1ger-lpub 15-2016-2/3,kG1ger-01-2017,kG1ger-01-2017,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-02-2016-2,ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-02-2016-2/3,wrV3LP-56233,wrV3LP-56233,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-7rBxpG-BCH-T4149-71-1,ocds-lcuori-7rBxpG-BCH-T4149-71-1/3,7rBxpG-68-2016,7rBxpG-68-2016,suretyBond,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-06-2016-2,ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-06-2016-2/3,wrV3LP-56230,wrV3LP-56230,suretyBond,G7GXMRV,Banco del País S.A.
+ocds-lcuori-JL7qER-Lic. Priv. MP-002-2016-2,ocds-lcuori-JL7qER-Lic. Priv. MP-002-2016-2/3,JL7qER-002-2017,JL7qER-002-2017,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-JL7W2L-LP. 022-2016-2,ocds-lcuori-JL7W2L-LP. 022-2016-2/3,JL7W2L-1652,JL7W2L-1652,check,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-MLQnAG-020-2016-HRS-2,ocds-lcuori-MLQnAG-020-2016-HRS-2/3,MLQnAG-020-2016-HRS,MLQnAG-020-2016-HRS,check,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-39-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-39-2016-2/3,wrV3LP-58085,wrV3LP-58085,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-20-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-20-2016-2/3,wrV3LP-57182,wrV3LP-57182,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7rBxpG-BCH-T3903-60-1,ocds-lcuori-7rBxpG-BCH-T3903-60-1/3,7rBxpG-67-2016,7rBxpG-67-2016,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-grxy3L-LP-015-2016-2,ocds-lcuori-grxy3L-LP-015-2016-2/3,grxy3L-LP-015-2016,grxy3L-LP-015-2016,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-35-2016-2,ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-35-2016-2/3,mGE4eL-57958,mGE4eL-57958,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-34-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-34-2016-2/3,wrV3LP-57959,wrV3LP-57959,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-37-2016-2,ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-37-2016-2/3,mGE4eL-57960,mGE4eL-57960,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-yRlaDr-LP. 008-2016-2,ocds-lcuori-yRlaDr-LP. 008-2016-2/3,yRlaDr-020-16,yRlaDr-020-16,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-7GXMRV-LP-L11-109-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L11-109-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.035/CO/GE/DGOP/INSEP/2017,7GXMRV-No.035/CO/GE/DGOP/INSEP/2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L11-109-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L11-109-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.035-CO-GE-DGOP-INSEP-2017,7GXMRV-No.035-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L11-110-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L11-110-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.036-CO-GE-DGOP-INSEP-2017,7GXMRV-No.036-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L02-034-CN-DGOP-OO.UU.2016-2,ocds-lcuori-7GXMRV-LP-L02-034-CN-DGOP-OO.UU.2016-2/3,7GXMRV-203-CO-CN-DGOP-INSEP-2016,7GXMRV-203-CO-CN-DGOP-INSEP-2016,suretyBond,GgrxELe,Equidad Compañía de Seguros S.A.
+ocds-lcuori-7GXMRV-LP-L11-111-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L11-111-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.037-CO-GE-DGOP-INSEP-2017,7GXMRV-No.037-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L02-036-CN-DGOP-OO.UU.2016-2,ocds-lcuori-7GXMRV-LP-L02-036-CN-DGOP-OO.UU.2016-2/3,7GXMRV-204-CO-CN-DGOP-INSEP-2016,7GXMRV-204-CO-CN-DGOP-INSEP-2016,suretyBond,GgrxELe,Equidad Compañía de Seguros S.A.
+ocds-lcuori-7GXMRV-LP-L11-112-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L11-112-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.038-CO-GE-DGOP-INSEP-2017,7GXMRV-No.038-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L11-113-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L11-113-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.039-CO-GE-DGOP-INSEP-2017,7GXMRV-No.039-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-CP-L08-08-GE-GOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-CP-L08-08-GE-GOP-OO.UU.-2016.-2/3,7GXMRV-No. 001-SU-GE-DGOP-INSEP-2017,7GXMRV-No. 001-SU-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L11-115-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L11-115-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.041-CO-GE-DGOP-INSEP-2017,7GXMRV-No.041-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L11-116-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L11-116-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.042-CO-GE-DGOP-INSEP-2017,7GXMRV-No.042-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L08-079-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-LP-L08-079-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 002-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 002-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-kG1ger-Lpub 17-2016-2,ocds-lcuori-kG1ger-Lpub 17-2016-2/3,kG1ger-02-2017,kG1ger-02-2017,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-7GXMRV-LP-L08-080-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-LP-L08-080-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 003-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 003-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L08-081-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-LP-L08-081-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 004-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 004-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7rBxpG-BCH-T3433-48-1,ocds-lcuori-7rBxpG-BCH-T3433-48-1/4,7rBxpG-042-2016,7rBxpG-042-2016,check,GyRlDRg,"City Seguros de Honduras, S.A."
+ocds-lcuori-7GXMRV-CP-L13-13-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-CP-L13-13-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No056-SU-GE-DGOP-INSEP-2017,7GXMRV-No056-SU-GE-DGOP-INSEP-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-jRDkVG-LP-015-2016-2,ocds-lcuori-jRDkVG-LP-015-2016-2/3,jRDkVG-LP-015-2016,jRDkVG-LP-015-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-7GXMRV-LP-L08-083-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L08-083-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No. 006-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 006-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L08-084-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-LP-L08-084-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 007-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 007-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7rBxpG-BCH-T3435-49-1,ocds-lcuori-7rBxpG-BCH-T3435-49-1/3,7rBxpG-033-2016,7rBxpG-033-2016,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-7GXMRV- LP-L13-132-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV- LP-L13-132-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No060-CO-GE-DGOP-INSEP-2017,7GXMRV-No060-CO-GE-DGOP-INSEP-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-7GXMRV-LP-L08-085-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L08-085-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No. 008-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 008-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-CP-L1-001-DGOP-EE.PP.-2016-2,ocds-lcuori-7GXMRV-CP-L1-001-DGOP-EE.PP.-2016-2/3,7GXMRV-No.003-SU-DGOP-INSEP-2016,7GXMRV-No.003-SU-DGOP-INSEP-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L08-086-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L08-086-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No. 009-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 009-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L13-136-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L13-136-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.064-CO-GE-DGOP-INSEP-2017,7GXMRV-No.064-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L08-087-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L08-087-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No. 010-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 010-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L13-137-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L13-137-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.065-CO-GE-DGOP-INSEP-2017,7GXMRV-No.065-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L08-088-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L08-088-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No. 011-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 011-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L13-129-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L13-129-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.057-CO-GE-DGOP-INSEP-2017,7GXMRV-No.057-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L13-130-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L13-130-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.058-CO-GE-DGOP-INSEP-2017,7GXMRV-No.058-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L13-131-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L13-131-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.059-CO-GE-DGOP-INSEP-2017,7GXMRV-No.059-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L09-089-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-LP-L09-089-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 013-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 013-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L13-133-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L13-133-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.061-CO-GE-DGOP-INSEP-2017,7GXMRV-No.061-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L09-090-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-LP-L09-090-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 014-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 014-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L13-134-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L13-134-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.062-CO-GE-DGOP-INSEP-2017,7GXMRV-No.062-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L13-135-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L13-135-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.063-CO-GE-DGOP-INSEP-2017,7GXMRV-No.063-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L09-092-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-LP-L09-092-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 016-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 016-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L13-138-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L13-138-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.066-CO-GE-DGOP-INSEP-2017,7GXMRV-No.066-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L09-093-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-LP-L09-093-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 017-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 017-CO-GE-DGOP-INSEP-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-7GXMRV-LP-L09-094-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-LP-L09-094-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 018-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 018-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-MLQW8R-05-2016-2,ocds-lcuori-MLQW8R-05-2016-2/3,MLQW8R-05-2016,MLQW8R-05-2016,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-Zr5mWr-PCDC No. 03-2016-SEAPI-UNAH-2,ocds-lcuori-Zr5mWr-PCDC No. 03-2016-SEAPI-UNAH-2/3,Zr5mWr-CC-11-2016-SEAPI-UNAH,Zr5mWr-CC-11-2016-SEAPI-UNAH,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-7GXMRV-LP-L09-095-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-LP-L09-095-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 019-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 019-CO-GE-DGOP-INSEP-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-7GXMRV-LP-L09-096-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-LP-L09-096-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 020-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 020-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L09-097-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-LP-L09-097-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 021-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 021-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L09-098-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-LP-L09-098-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 022-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 022-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-Zr5mWr-PCDC No. 04-2016-SEAPI-UNAH-2,ocds-lcuori-Zr5mWr-PCDC No. 04-2016-SEAPI-UNAH-2/3,Zr5mWr-CC-12-2016-SEAPI-UNAH,Zr5mWr-CC-12-2016-SEAPI-UNAH,suretyBond,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-jRDkVG-LP-018-2016-2,ocds-lcuori-jRDkVG-LP-018-2016-2/3,jRDkVG-LP-018-2016,jRDkVG-LP-018-2016,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-WRzdbL-LP-013-2016-HT-2,ocds-lcuori-WRzdbL-LP-013-2016-HT-2/3,WRzdbL-040-2016,WRzdbL-040-2016,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-WRzdbL-LP-014-2016-HT-2,ocds-lcuori-WRzdbL-LP-014-2016-HT-2/3,WRzdbL-041-2016,WRzdbL-041-2016,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-Zr5mWr-PCDC No. 05-2016-SEAPI-UNAH-2,ocds-lcuori-Zr5mWr-PCDC No. 05-2016-SEAPI-UNAH-2/3,Zr5mWr-CC-13-2016-SEAPI-UNAH,Zr5mWr-CC-13-2016-SEAPI-UNAH,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-MLQW8R-06-2016-2,ocds-lcuori-MLQW8R-06-2016-2/3,MLQW8R-06-2016,MLQW8R-06-2016,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-grxXEr-LP. 048-16-2,ocds-lcuori-grxXEr-LP. 048-16-2/3,grxXEr-2949,grxXEr-2949,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-PGJpAr-049-2016-2,ocds-lcuori-PGJpAr-049-2016-2/3,PGJpAr-049-2016,PGJpAr-049-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-gRNDyL-013-03-2016-2,ocds-lcuori-gRNDyL-013-03-2016-2/3,gRNDyL-022-03-2016,gRNDyL-022-03-2016,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-jRDkVG-LP-016-2016-2,ocds-lcuori-jRDkVG-LP-016-2016-2/3,jRDkVG-lp-016-2016,jRDkVG-lp-016-2016,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-7GXMRV-LP-L02-011-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L02-011-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.016-CO-GE-DGOP-INSEP-2016,7GXMRV-No.016-CO-GE-DGOP-INSEP-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-7GXMRV-LP-L02-013-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L02-013-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.018-CO-GE-DGOP-INSEP-2016,7GXMRV-No.018-CO-GE-DGOP-INSEP-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L02-015-GE-DGOP-OO.UU.-2016 COL. JAPON II-2,ocds-lcuori-7GXMRV-LP-L02-015-GE-DGOP-OO.UU.-2016 COL. JAPON II-2/3,7GXMRV-No.020-CO-GE-DGOP-INSEP-2016,7GXMRV-No.020-CO-GE-DGOP-INSEP-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-7GXMRV-LP-L02-018-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L02-018-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.023-CO-GE-DGOP-INSEP-2016,7GXMRV-No.023-CO-GE-DGOP-INSEP-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L02-019-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L02-019-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.024-CO-GE-DGOP-INSEP-2016,7GXMRV-No.024-CO-GE-DGOP-INSEP-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-NLP4qL-LPNS-004-2016-2,ocds-lcuori-NLP4qL-LPNS-004-2016-2/3,NLP4qL-CB-007-2016,NLP4qL-CB-007-2016,suretyBond,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-XRb6JR-02-2016-2,ocds-lcuori-XRb6JR-02-2016-2/3,XRb6JR-32-2016,XRb6JR-32-2016,suretyBond,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-orvDGM-LPN-SANAA-DM-09-2016-2,ocds-lcuori-orvDGM-LPN-SANAA-DM-09-2016-2/3,orvDGM-DLC-SANAA-17-2016,orvDGM-DLC-SANAA-17-2016,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-kG1ger-LPUB 10-2016-2,ocds-lcuori-kG1ger-LPUB 10-2016-2/3,kG1ger-07-2017,kG1ger-07-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-kG1ger-LPUB 10-2016-2,ocds-lcuori-kG1ger-LPUB 10-2016-2/3,kG1ger-08-2017,kG1ger-08-2017,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-orvDGM-LPN-SANAA-DM-11-2016-2,ocds-lcuori-orvDGM-LPN-SANAA-DM-11-2016-2/3,orvDGM-DLC-SANAA-14-2016,orvDGM-DLC-SANAA-14-2016,suretyBond,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-PGJpAr-047-2016-2,ocds-lcuori-PGJpAr-047-2016-2/3,PGJpAr-047-2016,PGJpAr-047-2016,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-90-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-90-2016-2/3,wrV3LP-58818,wrV3LP-58818,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-91-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-91-2016-2/3,wrV3LP-58695,wrV3LP-58695,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-43-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-43-2016-2/3,wrV3LP-58221,wrV3LP-58221,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-kG1ger-lpub 14-2016-2,ocds-lcuori-kG1ger-lpub 14-2016-2/3,kG1ger-09-2017,kG1ger-09-2017,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-mGE4eL-COT-IDECOAS-FHIS-14-2016-2,ocds-lcuori-mGE4eL-COT-IDECOAS-FHIS-14-2016-2/3,mGE4eL-58150,mGE4eL-58150,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-92-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-92-2016-2/3,wrV3LP-58841,wrV3LP-58841,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-13-2016-2,ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-13-2016-2/3,wrV3LP-58235,wrV3LP-58235,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-86-2016-2,ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-86-2016-2/3,mGE4eL-58804,mGE4eL-58804,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-kG1ger-l05-2016-2,ocds-lcuori-kG1ger-l05-2016-2/3,kG1ger-23-2016,kG1ger-23-2016,suretyBond,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-88-2016-2,ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-88-2016-2/3,mGE4eL-58817,mGE4eL-58817,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-04-2016-2,ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-04-2016-2/3,wrV3LP-53216,wrV3LP-53216,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-89-2016-2,ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-89-2016-2/3,mGE4eL-58803,mGE4eL-58803,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-JL7qER-Lic. Pub. LPN-MP-001-2016-2,ocds-lcuori-JL7qER-Lic. Pub. LPN-MP-001-2016-2/3,JL7qER-1000017086,JL7qER-1000017086,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-kR0qDr-LPN-11-2016-2,ocds-lcuori-kR0qDr-LPN-11-2016-2/3,kR0qDr-028-2017,kR0qDr-028-2017,suretyBond,G7GXMRV,Banco del País S.A.
+ocds-lcuori-orvkNL-LPN No.21-2016-SEAF-UNAH-2,ocds-lcuori-orvkNL-LPN No.21-2016-SEAF-UNAH-2/3,orvkNL-24-2017-SEAF-UNAH,orvkNL-24-2017-SEAF-UNAH,suretyBond,GNLPKrv,Compañía de Seguros Interamericana S.A.
+ocds-lcuori-7GXMRV-LP-L01-002-GE-DGOP-OO.UU-2016-2,ocds-lcuori-7GXMRV-LP-L01-002-GE-DGOP-OO.UU-2016-2/3,7GXMRV-No.006-CO-GE-DGOP-INSEP-2016,7GXMRV-No.006-CO-GE-DGOP-INSEP-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-kG1ger-lpriv 01-2016-2,ocds-lcuori-kG1ger-lpriv 01-2016-2/3,kG1ger-32-2016,kG1ger-32-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L01-004-GE-DGOP-OO.UU-2016-2,ocds-lcuori-7GXMRV-LP-L01-004-GE-DGOP-OO.UU-2016-2/3,7GXMRV-No.008-CO-GE-DGOP-INSEP-2016,7GXMRV-No.008-CO-GE-DGOP-INSEP-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-ERpngL-LP-016-2016-2,ocds-lcuori-ERpngL-LP-016-2016-2/3,ERpngL-016-2016,ERpngL-016-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-7GXMRV-LP-L01-008-GE-DGOP-OO.UU-2016-2,ocds-lcuori-7GXMRV-LP-L01-008-GE-DGOP-OO.UU-2016-2/3,7GXMRV-No.012-CO-GE-DGOP-INSEP-2016,7GXMRV-No.012-CO-GE-DGOP-INSEP-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-98-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-98-2016-2/3,wrV3LP-59041,wrV3LP-59041,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-7GXMRV-CP-L05-05-GE-DGOP-OO.HH-2016-2,ocds-lcuori-7GXMRV-CP-L05-05-GE-DGOP-OO.HH-2016-2/3,7GXMRV-NO. 037-SU-GE-DGOP-INSEP-2016,7GXMRV-NO. 037-SU-GE-DGOP-INSEP-2016,suretyBond,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-7GXMRV-LP-L05-041-GE-DGOP-OO.HH.-2016-2,ocds-lcuori-7GXMRV-LP-L05-041-GE-DGOP-OO.HH.-2016-2/3,7GXMRV-No.038-co-ge-dgop-insep-2016,7GXMRV-No.038-co-ge-dgop-insep-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L05-042-GE-DGOP-OO.HH.-2016-2,ocds-lcuori-7GXMRV-LP-L05-042-GE-DGOP-OO.HH.-2016-2/3,7GXMRV-NO.039-CO-GE-DGOP-INSEP-2016,7GXMRV-NO.039-CO-GE-DGOP-INSEP-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L05-043-GE-DGOP-OO.HH.-2016-2,ocds-lcuori-7GXMRV-LP-L05-043-GE-DGOP-OO.HH.-2016-2/3,7GXMRV-NO. 040-CO-GE-DGOP-INSEP-2016,7GXMRV-NO. 040-CO-GE-DGOP-INSEP-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L03-023-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L03-023-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-NO. 029-GE-DGOP-INSEP-2016,7GXMRV-NO. 029-GE-DGOP-INSEP-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L05-047-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L05-047-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-NO. 044-CO-GE-DGOP-INSEP-2016,7GXMRV-NO. 044-CO-GE-DGOP-INSEP-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-7GXMRV-LP-L03-024-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L03-024-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-NO. 028-GE-DGOP-INSEP-2016,7GXMRV-NO. 028-GE-DGOP-INSEP-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-kR2qdG-LP-22-HRSC-2016-2,ocds-lcuori-kR2qdG-LP-22-HRSC-2016-2/3,kR2qdG-34,kR2qdG-34,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-JL7W2L-LP 023-2016-2,ocds-lcuori-JL7W2L-LP 023-2016-2/3,JL7W2L-1653,JL7W2L-1653,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-7GXMRV-LPN-DGOP-EEPP-001-2016-2,ocds-lcuori-7GXMRV-LPN-DGOP-EEPP-001-2016-2/3,7GXMRV-No.001-CO-DGOP-INSEP-2016,7GXMRV-No.001-CO-DGOP-INSEP-2016,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-7GXMRV-LP-L03-027-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L03-027-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-NO. 033-GE-DGOP-INSEP-2016,7GXMRV-NO. 033-GE-DGOP-INSEP-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L03-028-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L03-028-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-NO. 034-GE-DGOP-INSEP-2016,7GXMRV-NO. 034-GE-DGOP-INSEP-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L03-029-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L03-029-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-NO. 035-GE-DGOP-INSEP-2016,7GXMRV-NO. 035-GE-DGOP-INSEP-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-Zr5mWr-LPN No. 07-2016-SEAPI-UNAH-2,ocds-lcuori-Zr5mWr-LPN No. 07-2016-SEAPI-UNAH-2/3,Zr5mWr-CC-01-2017-SEAPI-UNAH,Zr5mWr-CC-01-2017-SEAPI-UNAH,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-grxXEr-´L.P 065-16-2,ocds-lcuori-grxXEr-´L.P 065-16-2/3,grxXEr-2995,grxXEr-2995,check,GkR05rP,Banco de Honduras S.A.
+ocds-lcuori-JL7qER-LPN-MP-002-2016-2,ocds-lcuori-JL7qER-LPN-MP-002-2016-2/3,JL7qER-002-2016,JL7qER-002-2016,suretyBond,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-JL7qER-LPN-MP-002-2016-2,ocds-lcuori-JL7qER-LPN-MP-002-2016-2/3,JL7qER-LPN-MP-002-2016,JL7qER-LPN-MP-002-2016,suretyBond,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-7GXMRV-LP-L05-048-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L05-048-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-NO. 045-CO-GE-DGOP-INSEP-2016,7GXMRV-NO. 045-CO-GE-DGOP-INSEP-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-kG1ger-lpub 07-2016-2,ocds-lcuori-kG1ger-lpub 07-2016-2/3,kG1ger-06/2017,kG1ger-06/2017,suretyBond,G7GXMRV,Banco del País S.A.
+ocds-lcuori-MLQnAG-044-2016-HGS-2,ocds-lcuori-MLQnAG-044-2016-HGS-2/3,MLQnAG-044-2016-HGS2,MLQnAG-044-2016-HGS2,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-7GX94R-LPN-001-Prueba-2016-2,ocds-lcuori-7GX94R-LPN-001-Prueba-2016-2/3,7GX94R-001-PRUEBA,7GX94R-001-PRUEBA,suretyBond,GlRo2G5,American Home Inssurance Company
+ocds-lcuori-PR8dYR-001-2016-2,ocds-lcuori-PR8dYR-001-2016-2/3,PR8dYR-014-2016,PR8dYR-014-2016,suretyBond,G7GXMRV,Banco del País S.A.
+ocds-lcuori-7GXmzR-LPN-001-2016 CCIVS -2,ocds-lcuori-7GXmzR-LPN-001-2016 CCIVS -2/3,7GXmzR-P4-001-2016 CCIVS ,7GXmzR-P4-001-2016 CCIVS ,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-MLQW8R-23-2016-2,ocds-lcuori-MLQW8R-23-2016-2/3,MLQW8R-1258,MLQW8R-1258,suretyBond,GgLkyRb,Seguros HSBC Honduras S.A.
+ocds-lcuori-kG1ger-lpriv 04-2016-2,ocds-lcuori-kG1ger-lpriv 04-2016-2/3,kG1ger-34-2016,kG1ger-34-2016,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-wrVn3r-LP16-HSI-2016-2,ocds-lcuori-wrVn3r-LP16-HSI-2016-2/3,wrVn3r-16-16,wrVn3r-16-16,,G7GXMRV,Banco del País S.A.
+ocds-lcuori-wrVn3r-LP17-HSI-2016-2,ocds-lcuori-wrVn3r-LP17-HSI-2016-2/3,wrVn3r-17-16,wrVn3r-17-16,,G7GXMRV,Banco del País S.A.
+ocds-lcuori-wrVn3r-LP19-HSI-2016-2,ocds-lcuori-wrVn3r-LP19-HSI-2016-2/3,wrVn3r-19-16,wrVn3r-19-16,,G7GXMRV,Banco del País S.A.
+ocds-lcuori-7rBxpG-LPública No.44-2016-2,ocds-lcuori-7rBxpG-LPública No.44-2016-2/3,7rBxpG-032-2017,7rBxpG-032-2017,suretyBond,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-wrVn3r-LP21-HSI-2016-2,ocds-lcuori-wrVn3r-LP21-HSI-2016-2/3,wrVn3r-21-16,wrVn3r-21-16,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-7GXMRV-LP-L14-141-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-LP-L14-141-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 070-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 070-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrVn3r-LP22-HSI-2016-2,ocds-lcuori-wrVn3r-LP22-HSI-2016-2/3,wrVn3r-22-16,wrVn3r-22-16,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-7GXMRV-LP-L14-142-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-LP-L14-142-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 071-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 071-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L14-143-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-LP-L14-143-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 072-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 072-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L14-144-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-LP-L14-144-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 073-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 073-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrVn3r-LP23-HSI-2016-2,ocds-lcuori-wrVn3r-LP23-HSI-2016-2/3,wrVn3r-23-16,wrVn3r-23-16,check,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-7GXMRV-LP-L14-146-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L14-146-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No. 075-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 075-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-CP-L16-16-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-CP-L16-16-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.089-SU-GE-DGOP-INSEP-2017,7GXMRV-No.089-SU-GE-DGOP-INSEP-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrVn3r-LP24-HSI-2016-2,ocds-lcuori-wrVn3r-LP24-HSI-2016-2/3,wrVn3r-24-16,wrVn3r-24-16,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-7GXMRV-CP-L14-14-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-CP-L14-14-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 067-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 067-CO-GE-DGOP-INSEP-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrVn3r-LP25-HSI-2016-2,ocds-lcuori-wrVn3r-LP25-HSI-2016-2/3,wrVn3r-25-16,wrVn3r-25-16,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-7GXMRV-LP-L16-160-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L16-160-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.091-CO-GE-DGOP-INSEP-2017,7GXMRV-No.091-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrVn3r-LP26-HSI-2016-2,ocds-lcuori-wrVn3r-LP26-HSI-2016-2/3,wrVn3r-26-16,wrVn3r-26-16,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-7GXMRV-LP-L16-162-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L16-162-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.093-CO-GE-DGOP-INSEP-2017,7GXMRV-No.093-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L15-149-GE-DGOP-OO.HH.-2016.-2,ocds-lcuori-7GXMRV-LP-L15-149-GE-DGOP-OO.HH.-2016.-2/3,7GXMRV-No. 079-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 079-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L16-164-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L16-164-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.095-CO-GE-DGOP-INSEP-2017,7GXMRV-No.095-CO-GE-DGOP-INSEP-2017,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-wrVn3r-LP27-HSI-2016-2,ocds-lcuori-wrVn3r-LP27-HSI-2016-2/3,wrVn3r-27-16,wrVn3r-27-16,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-7GXMRV-LP-L15-150-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L15-150-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No. 080-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 080-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L16-165-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L16-165-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.096-CO-GE-DGOP-INSEP-2017,7GXMRV-No.096-CO-GE-DGOP-INSEP-2017,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-7GXMRV-LP-L16-166-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L16-166-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.097-CO-GE-DGOP-INSEP-2017,7GXMRV-No.097-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L16-167-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L16-167-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.098-CO-GE-DGOP-INSEP-2017,7GXMRV-No.098-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrVn3r-LP28-HSI-2016-2,ocds-lcuori-wrVn3r-LP28-HSI-2016-2/3,wrVn3r-28-16,wrVn3r-28-16,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-7GXMRV-LP-L15-152-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-LP-L15-152-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 082-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 082-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L16-168-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L16-168-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.099-CO-GE-DGOP-INSEP-2017,7GXMRV-No.099-CO-GE-DGOP-INSEP-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrVn3r-LP29-HSI-2016-2,ocds-lcuori-wrVn3r-LP29-HSI-2016-2/3,wrVn3r-29-16,wrVn3r-29-16,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-7GXMRV-LP-L15-153-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-LP-L15-153-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 083-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 083-CO-GE-DGOP-INSEP-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-7GXMRV- LP-L15-155-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV- LP-L15-155-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 085-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 085-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7rBxpG-L Pública No.19-2016-2,ocds-lcuori-7rBxpG-L Pública No.19-2016-2/3,7rBxpG-79-2016,7rBxpG-79-2016,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-7GXMRV-LP-L15-156-GE-DGOP-OO.UU.-2016.-2,ocds-lcuori-7GXMRV-LP-L15-156-GE-DGOP-OO.UU.-2016.-2/3,7GXMRV-No. 086-CO-GE-DGOP-INSEP-2017,7GXMRV-No. 086-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-yRl6pL-LPNS 002 SSIS BM 5603 2016-2,ocds-lcuori-yRl6pL-LPNS 002 SSIS BM 5603 2016-2/3,yRl6pL-04/SSIS/BM/B/5603/2016,yRl6pL-04/SSIS/BM/B/5603/2016,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-7GXMRV-CP-L18-18-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-CP-L18-18-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.111-SU-GE-DGOP-INSEP-2017,7GXMRV-No.111-SU-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrVn3r-LP30-HSI-2016-2,ocds-lcuori-wrVn3r-LP30-HSI-2016-2/3,wrVn3r-30-16,wrVn3r-30-16,check,GZGqwr0,Banco HSBC Honduras S.A 
+ocds-lcuori-7GXMRV-LP-L18-181-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L18-181-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.114-CO-GE-DGOP-INSEP-2017,7GXMRV-No.114-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L18-183-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L18-183-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.116-CO-GE-DGOP-INSEP-2017,7GXMRV-No.116-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L18-184-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L18-184-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.117-CO-GE-DGOP-INSEP-2017,7GXMRV-No.117-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L18-185-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L18-185-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.118-CO-GE-DGOP-INSEP-2017,7GXMRV-No.118-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L18-186-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L18-186-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.119-CO-GE-DGOP-INSEP-2017,7GXMRV-No.119-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L18-187-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L18-187-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.120-CO-GE-DGOP-INSEP-2017,7GXMRV-No.120-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-LP-L18-188-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L18-188-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No.121-CO-GE-DGOP-INSEP-2017,7GXMRV-No.121-CO-GE-DGOP-INSEP-2017,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-7GXMRV-CP-L09-09-GE-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-CP-L09-09-GE-DGOP-OO.UU.-2016-2/3,7GXMRV-No. 012-SU-GE-DGOP-INSEP-2017,7GXMRV-No. 012-SU-GE-DGOP-INSEP-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-7GXMRV-LP-L7-064-GE-DGOP-OOUU-2016-2,ocds-lcuori-7GXMRV-LP-L7-064-GE-DGOP-OOUU-2016-2/3,7GXMRV-NO. 051-CO-GE-DGOP-INSEP-201,7GXMRV-NO. 051-CO-GE-DGOP-INSEP-201,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-XRb6JR-LP-PANI01-2016-2,ocds-lcuori-XRb6JR-LP-PANI01-2016-2/3,XRb6JR-27-2016,XRb6JR-27-2016,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-WRzdbL-LP-015-2016-HT-2,ocds-lcuori-WRzdbL-LP-015-2016-HT-2/3,WRzdbL-050-2016,WRzdbL-050-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-WRzdbL-LP-016-2016-HT-2,ocds-lcuori-WRzdbL-LP-016-2016-HT-2/3,WRzdbL-044-2016,WRzdbL-044-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-WRzdbL-LP-017-2016-HT-2,ocds-lcuori-WRzdbL-LP-017-2016-HT-2/3,WRzdbL-045-2016-HT,WRzdbL-045-2016-HT,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-WRzdbL-LP-018-2016-HT-2,ocds-lcuori-WRzdbL-LP-018-2016-HT-2/3,WRzdbL-046-2016,WRzdbL-046-2016,check,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-05-2016-2,ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-05-2016-2/3,wrV3LP-56464,wrV3LP-56464,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-orvkNL-LPN No.23-2016-SEAF-UNAH-2,ocds-lcuori-orvkNL-LPN No.23-2016-SEAF-UNAH-2/3,orvkNL-18-2017-SEAF-UNAH,orvkNL-18-2017-SEAF-UNAH,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-22-2016-2,ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-22-2016-2/3,wrV3LP-58641,wrV3LP-58641,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-grxXEr-LP. 029-16-2,ocds-lcuori-grxXEr-LP. 029-16-2/3,grxXEr-2914,grxXEr-2914,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-23-2016-2,ocds-lcuori-wrV3LP-COT-IDECOAS-FHIS-23-2016-2/3,wrV3LP-59115,wrV3LP-59115,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-grxXEr-LP. 031-16-2,ocds-lcuori-grxXEr-LP. 031-16-2/3,grxXEr-2916,grxXEr-2916,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-01-2016-HO-OBRAS-2,ocds-lcuori-PR8wNG-IDECOAS PRONADERS-LPRI-01-2016-HO-OBRAS-2/3,PR8wNG-21-2016,PR8wNG-21-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-79-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-79-2016-2/3,wrV3LP-58698,wrV3LP-58698,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-80-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-80-2016-2/3,wrV3LP-58697,wrV3LP-58697,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-65-2016-2,ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-65-2016-2/3,mGE4eL-58525,mGE4eL-58525,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-81-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-81-2016-2/3,wrV3LP-58699,wrV3LP-58699,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-MLQnAG-029-2016-HS-2,ocds-lcuori-MLQnAG-029-2016-HS-2/3,MLQnAG-029-2016-HS2,MLQnAG-029-2016-HS2,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-66-2016-2,ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-66-2016-2/3,mGE4eL-58535,mGE4eL-58535,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-67-2016-2,ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-67-2016-2/3,mGE4eL-58520,mGE4eL-58520,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-68-2016-2,ocds-lcuori-mGE4eL-LPR-IDECOAS-FHIS-68-2016-2/3,mGE4eL-58444,mGE4eL-58444,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-kR2qdG-LP-011-HRSC-2016-2,ocds-lcuori-kR2qdG-LP-011-HRSC-2016-2/3,kR2qdG-19,kR2qdG-19,check,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-JLKQxR-LP-026-16-2,ocds-lcuori-JLKQxR-LP-026-16-2/3,JLKQxR-0555,JLKQxR-0555,check,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-71-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-71-2016-2/3,wrV3LP-58621,wrV3LP-58621,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-ZGqW9r-LPN-0010-IPM-2016-2,ocds-lcuori-ZGqW9r-LPN-0010-IPM-2016-2/3,ZGqW9r-LPN-0010-IPM-2016,ZGqW9r-LPN-0010-IPM-2016,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-7GXMRV-LP-L00-015-CN-DGOP-EE.PP-2016-2,ocds-lcuori-7GXMRV-LP-L00-015-CN-DGOP-EE.PP-2016-2/3,7GXMRV-206-CO-CN-DGOP-INSEP-2016,7GXMRV-206-CO-CN-DGOP-INSEP-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-ZGqW9r-LPN-0011-IPM-2016-2,ocds-lcuori-ZGqW9r-LPN-0011-IPM-2016-2/3,ZGqW9r-LPN-0011-IPM-2016,ZGqW9r-LPN-0011-IPM-2016,suretyBond,GXRbOrV,Banco de Occidente S.A.
+ocds-lcuori-grxy3L-LP-017-2016-2,ocds-lcuori-grxy3L-LP-017-2016-2/3,grxy3L-LP-017-2016,grxy3L-LP-017-2016,check,GkR05rP,Banco de Honduras S.A.
+ocds-lcuori-Zr57xG-CM-30-IMFFAA-2016-1,ocds-lcuori-Zr57xG-CM-30-IMFFAA-2016-1/3,Zr57xG-CM-30-IMFFAA-2016,Zr57xG-CM-30-IMFFAA-2016,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-grxXEr-L.P. 051-16-2,ocds-lcuori-grxXEr-L.P. 051-16-2/3,grxXEr-2963,grxXEr-2963,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-grxXEr-L.P. 052-16-2,ocds-lcuori-grxXEr-L.P. 052-16-2/3,grxXEr-2964,grxXEr-2964,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-wrV3LP-LPN-IDECOAS-FHIS-13-2016-2,ocds-lcuori-wrV3LP-LPN-IDECOAS-FHIS-13-2016-2/3,wrV3LP-58117,wrV3LP-58117,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-grxXEr-L.P. 053-16-2,ocds-lcuori-grxXEr-L.P. 053-16-2/3,grxXEr-2965,grxXEr-2965,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-wrV3LP-LPN-IDECOAS-FHIS-15-2016-2,ocds-lcuori-wrV3LP-LPN-IDECOAS-FHIS-15-2016-2/3,wrV3LP-58146,wrV3LP-58146,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrV3LP-LPN-IDECOAS-FHIS-16-2016-2,ocds-lcuori-wrV3LP-LPN-IDECOAS-FHIS-16-2016-2/3,wrV3LP-56465,wrV3LP-56465,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-grxXEr-L.P. 054-16-2,ocds-lcuori-grxXEr-L.P. 054-16-2/3,grxXEr-2966,grxXEr-2966,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-7GXMRV-LP-L00-015-CN-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L00-015-CN-DGOP-OO.UU.-2016-2/3,7GXMRV-207-CO-CN-DGOP-INSEP-2016,7GXMRV-207-CO-CN-DGOP-INSEP-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-WRzdbL-LP-031-2016-HT-2,ocds-lcuori-WRzdbL-LP-031-2016-HT-2/3,WRzdbL-098-2016,WRzdbL-098-2016,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-JLKQxR-LP.032-16-2,ocds-lcuori-JLKQxR-LP.032-16-2/3,JLKQxR-3628,JLKQxR-3628,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-Zr5mWr-LP No. 02-2016-SEAPI-UNAH-2,ocds-lcuori-Zr5mWr-LP No. 02-2016-SEAPI-UNAH-2/3,Zr5mWr-CC-09-2016-SEAPI-UNAH,Zr5mWr-CC-09-2016-SEAPI-UNAH,suretyBond,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-7GXMRV-LP-L00-004-CN-DGOP-OO.UU.-2016-2,ocds-lcuori-7GXMRV-LP-L00-004-CN-DGOP-OO.UU.-2016-2/3,7GXMRV-No.-098-CO-CN-DGOP-INSEP-2016,7GXMRV-No.-098-CO-CN-DGOP-INSEP-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-orvkNL-LPN No.04-2016-2,ocds-lcuori-orvkNL-LPN No.04-2016-2/3,orvkNL-22-2016-SEAF-UNAH,orvkNL-22-2016-SEAF-UNAH,suretyBond,GNLPKrv,Compañía de Seguros Interamericana S.A.
+ocds-lcuori-PGJpAr-030-2016-1,ocds-lcuori-PGJpAr-030-2016-1/3,PGJpAr-030-2016,PGJpAr-030-2016,check,GMLQALQ,Banco Cuscatlan S.A.
+ocds-lcuori-7rBxpG-CDirecta No.06-2016-2,ocds-lcuori-7rBxpG-CDirecta No.06-2016-2/3,7rBxpG-59-2016,7rBxpG-59-2016,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-ZGqbBR-GT-MPC-003-2016-2,ocds-lcuori-ZGqbBR-GT-MPC-003-2016-2/3,ZGqbBR-S/N,ZGqbBR-S/N,suretyBond,G7GXMRV,Banco del País S.A.
+ocds-lcuori-kR2qdG-LP-09-HRSC-2016-2,ocds-lcuori-kR2qdG-LP-09-HRSC-2016-2/3,kR2qdG-17,kR2qdG-17,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-7rBxpG-CDirecta No.01-2016-2,ocds-lcuori-7rBxpG-CDirecta No.01-2016-2/3,7rBxpG-050-2016,7rBxpG-050-2016,suretyBond,G8L4PLY,Banco de América Central de Honduras
+ocds-lcuori-jRDA5r-Solicitud 1498 A-2,ocds-lcuori-jRDA5r-Solicitud 1498 A-2/3,jRDA5r-HBCBH-40-2016,jRDA5r-HBCBH-40-2016,,G7GXMRV,Banco del País S.A.
+ocds-lcuori-ZGqbBR-LPN-GT-MPC-04-2016-2,ocds-lcuori-ZGqbBR-LPN-GT-MPC-04-2016-2/3,ZGqbBR-CLP-MPC-01-2017,ZGqbBR-CLP-MPC-01-2017,suretyBond,G7GXMRV,Banco del País S.A.
+ocds-lcuori-ZGqW9r-CD-001-IPM-2016-2,ocds-lcuori-ZGqW9r-CD-001-IPM-2016-2/3,ZGqW9r-CD-001-IPM-2016,ZGqW9r-CD-001-IPM-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-WRzbRe-LPN-DGC-DC-004-2016-2,ocds-lcuori-WRzbRe-LPN-DGC-DC-004-2016-2/4,WRzbRe-04-DGC-DC-004-2016,WRzbRe-04-DGC-DC-004-2016,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-ZGqbBR-CPN-GT-MPC-01-2016-2,ocds-lcuori-ZGqbBR-CPN-GT-MPC-01-2016-2/3,ZGqbBR-CCPN-MPC-001-2017,ZGqbBR-CCPN-MPC-001-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-8L47Pr-L-P 011-2016-2,ocds-lcuori-8L47Pr-L-P 011-2016-2/3,8L47Pr-097-2016,8L47Pr-097-2016,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-8L47Pr-L-P 012-2016-2,ocds-lcuori-8L47Pr-L-P 012-2016-2/3,8L47Pr-096-2016,8L47Pr-096-2016,suretyBond,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-8L47Pr-L-P 009-2016-2,ocds-lcuori-8L47Pr-L-P 009-2016-2/3,8L47Pr-095-2016,8L47Pr-095-2016,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-8L47Pr-L-P 008-2016-2,ocds-lcuori-8L47Pr-L-P 008-2016-2/3,8L47Pr-094-2016,8L47Pr-094-2016,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-7rBxpG-CDirecta No.07-2016-2,ocds-lcuori-7rBxpG-CDirecta No.07-2016-2/3,7rBxpG-008-2017,7rBxpG-008-2017,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-WRzbRe-LPN-DGC-DC-003-2016-2,ocds-lcuori-WRzbRe-LPN-DGC-DC-003-2016-2/3,WRzbRe-01-CO-DC-DGC-INSEP-2017,WRzbRe-01-CO-DC-DGC-INSEP-2017,suretyBond,GEr6JrN,Banco La Fise S.A.
+ocds-lcuori-WRzbRe-CPN-DGC-DC-001-2016-2,ocds-lcuori-WRzbRe-CPN-DGC-DC-001-2016-2/3,WRzbRe-04-DC-DGC-INSEP-2016,WRzbRe-04-DC-DGC-INSEP-2016,suretyBond,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-DL9kwR-TSC-004-2016-DAG-2,ocds-lcuori-DL9kwR-TSC-004-2016-DAG-2/3,DL9kwR-C-008-TSC-2017,DL9kwR-C-008-TSC-2017,suretyBond,G7GXMRV,Banco del País S.A.
+ocds-lcuori-DL9kwR-TSC-004-2016-DAG-2,ocds-lcuori-DL9kwR-TSC-004-2016-DAG-2/3,DL9kwR-C-009-TSC-2017,DL9kwR-C-009-TSC-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-DL9kwR-TSC-004-2016-DAG-2,ocds-lcuori-DL9kwR-TSC-004-2016-DAG-2/3,DL9kwR-C-010-TSC-2017,DL9kwR-C-010-TSC-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-DL9kwR-TSC-004-2016-DAG-2,ocds-lcuori-DL9kwR-TSC-004-2016-DAG-2/3,DL9kwR-C-011-TSC-2017,DL9kwR-C-011-TSC-2017,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-WRzj0R-LPU-002-2016-2,ocds-lcuori-WRzj0R-LPU-002-2016-2/3,WRzj0R-002-2016,WRzj0R-002-2016,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-WRzj0R-LPU-003-2016-2,ocds-lcuori-WRzj0R-LPU-003-2016-2/3,WRzj0R-003-2016,WRzj0R-003-2016,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-JLKQxR-LP.037-16-2,ocds-lcuori-JLKQxR-LP.037-16-2/3,JLKQxR-3640,JLKQxR-3640,check,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-7GXmzR-CD-003-2016 CCIVS -2,ocds-lcuori-7GXmzR-CD-003-2016 CCIVS -2/3,7GXmzR-S5-06-06-2016,7GXmzR-S5-06-06-2016,check,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-7rBxpG-LPública No.26-2016-2,ocds-lcuori-7rBxpG-LPública No.26-2016-2/3,7rBxpG-78-2016,7rBxpG-78-2016,suretyBond,GvGZwRM,Banco Financiera Comercial S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-46-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-46-2016-2/3,wrV3LP-58286,wrV3LP-58286,suretyBond,GwrV3LP,Seguros Crefisa S.A.
+ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-47-2016-2,ocds-lcuori-wrV3LP-LPR-IDECOAS-FHIS-47-2016-2/3,wrV3LP-58273,wrV3LP-58273,suretyBond,GkG1DLQ,Seguros del País S.A.
+ocds-lcuori-NLP4qL-SEFIN-UAP-LPN-013-2016-2,ocds-lcuori-NLP4qL-SEFIN-UAP-LPN-013-2016-2/3,NLP4qL-SEFIN-UAP-0129-CB-2016,NLP4qL-SEFIN-UAP-0129-CB-2016,suretyBond,GmrYzL9,Banco Financiera Centroamericana S.A.
+ocds-lcuori-kR0qDr-LPN-05-2016-2,ocds-lcuori-kR0qDr-LPN-05-2016-2/3,kR0qDr-035-2016,kR0qDr-035-2016,suretyBond,G1RalG6,Banco Atlántida S.A.
+ocds-lcuori-Zr57xG-CM-012-IMFFAA-2016-1,ocds-lcuori-Zr57xG-CM-012-IMFFAA-2016-1/4,Zr57xG-CM-012-IMFFAA-2016,Zr57xG-CM-012-IMFFAA-2016,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-Zr57xG-CM-012-IMFFAA-2016-1,ocds-lcuori-Zr57xG-CM-012-IMFFAA-2016-1/4,Zr57xG-CM-12-IMFFAA-2016,Zr57xG-CM-12-IMFFAA-2016,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-Zr57xG-CM-002-IMFFAA-2016-1,ocds-lcuori-Zr57xG-CM-002-IMFFAA-2016-1/4,Zr57xG-CM-002-IMFFAA-2016,Zr57xG-CM-002-IMFFAA-2016,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-Zr57xG-CM-010-IMFFAA-2016-1,ocds-lcuori-Zr57xG-CM-010-IMFFAA-2016-1/4,Zr57xG-CM-010-IMFFAA-2016,Zr57xG-CM-010-IMFFAA-2016,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-Zr57xG-CM-13-IMFFAA-2016-1,ocds-lcuori-Zr57xG-CM-13-IMFFAA-2016-1/4,Zr57xG-CM-13-IMFFAA-2016,Zr57xG-CM-13-IMFFAA-2016,check,GoLj6LM,Banco Mercantil S.A.
+ocds-lcuori-Zr57xG-CM-20-IMFFAA-2016-1,ocds-lcuori-Zr57xG-CM-20-IMFFAA-2016-1/4,Zr57xG-CM-20-IMFFAA-2016,Zr57xG-CM-20-IMFFAA-2016,check,G7GXMRV,Banco del País S.A.
+ocds-lcuori-Zr57xG-CM-31-IMFFAA-2016-1,ocds-lcuori-Zr57xG-CM-31-IMFFAA-2016-1/4,Zr57xG-CM-31-IMFFAA-2016,Zr57xG-CM-31-IMFFAA-2016,check,GoLj6LM,Banco Mercantil S.A.

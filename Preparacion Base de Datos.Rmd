@@ -1,0 +1,349 @@
+---
+title: "Importación y Preparación de BDD"
+author: "Hector"
+date: "4/16/2020"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+
+library(plyr)  #Para limpieza de datos
+library(dplyr) #Para limpieza de datos
+library(xts)   #Para Manejo de Formatos de Fechas
+library(readr) #Para importacion de datos
+```
+
+1) Importar Data HC1, Consolidar, Guardar Archivos
+
+```{r}
+
+### Datos HC1 2020 ###
+
+awa_documents20 <- read_csv ("data/HC1_datos_2020/awa_documents20.csv")
+awa_items20 <- read_csv("data/HC1_datos_2020/awa_items20.csv")
+awa_suppliers20 <- read_csv("data/HC1_datos_2020/awa_suppliers20.csv")
+awards20 <- read_csv("data/HC1_datos_2020/awards20.csv")
+con_documents20 <- read_csv("data/HC1_datos_2020/con_documents20.csv")
+con_guarantees20 <- read_csv("data/HC1_datos_2020/con_guarantees20.csv")
+con_suppliers20 <- read_csv("data/HC1_datos_2020/con_suppliers20.csv")
+contracts20 <- read_csv("data/HC1_datos_2020/contracts20.csv")
+par_memberOf20 <- read_csv("data/HC1_datos_2020/par_memberOf20.csv")
+parties20 <- read_csv("data/HC1_datos_2020/parties20.csv")
+pla_bud_budgetBreakdown20 <- read_csv("data/HC1_datos_2020/pla_bud_budgetBreakdown20.csv")
+releases20 <- read_csv("data/HC1_datos_2020/releases20.csv")
+sources20 <- read_csv("data/HC1_datos_2020/sources20.csv")
+ten_documents20 <- read_csv("data/HC1_datos_2020/ten_documents20.csv")
+ten_items20 <- read_csv("data/HC1_datos_2020/ten_items20.csv")
+ten_participationFees20 <- read_csv("data/HC1_datos_2020/ten_participationFees20.csv")
+ten_tenderers20 <- read_csv("data/HC1_datos_2020/ten_tenderers20.csv")
+
+### Datos HC1 2019 ###
+
+awa_documents19 <- read_csv ("data/HC1_datos_2019/awa_documents19.csv")
+awa_items19 <- read_csv("data/HC1_datos_2019/awa_items19.csv")
+awa_suppliers19 <- read_csv("data/HC1_datos_2019/awa_suppliers19.csv")
+awards19 <- read_csv("data/HC1_datos_2019/awards19.csv")
+con_documents19 <- read_csv("data/HC1_datos_2019/con_documents19.csv")
+con_guarantees19 <- read_csv("data/HC1_datos_2019/con_guarantees19.csv")
+con_suppliers19 <- read_csv("data/HC1_datos_2019/con_suppliers19.csv")
+contracts19 <- read_csv("data/HC1_datos_2019/contracts19.csv")
+par_memberOf19 <- read_csv("data/HC1_datos_2019/par_memberOf19.csv")
+parties19 <- read_csv("data/HC1_datos_2019/parties19.csv")
+pla_bud_budgetBreakdown19 <- read_csv("data/HC1_datos_2019/pla_bud_budgetBreakdown19.csv")
+releases19 <- read_csv("data/HC1_datos_2019/releases19.csv")
+sources19 <- read_csv("data/HC1_datos_2019/sources19.csv")
+ten_documents19 <- read_csv("data/HC1_datos_2019/ten_documents19.csv")
+ten_items19 <- read_csv("data/HC1_datos_2019/ten_items19.csv")
+ten_participationFees19 <- read_csv("data/HC1_datos_2019/ten_participationFees19.csv")
+ten_tenderers19 <- read_csv("data/HC1_datos_2019/ten_tenderers19.csv")
+
+### Datos HC1 2018 ###
+
+awa_documents18 <- read_csv ("data/HC1_datos_2018/awa_documents18.csv")
+awa_items18 <- read_csv("data/HC1_datos_2018/awa_items18.csv")
+awa_suppliers18 <- read_csv("data/HC1_datos_2018/awa_suppliers18.csv")
+awards18 <- read_csv("data/HC1_datos_2018/awards18.csv")
+con_documents18 <- read_csv("data/HC1_datos_2018/con_documents18.csv")
+con_guarantees18 <- read_csv("data/HC1_datos_2018/con_guarantees18.csv")
+con_suppliers18 <- read_csv("data/HC1_datos_2018/con_suppliers18.csv")
+contracts18 <- read_csv("data/HC1_datos_2018/contracts18.csv")
+par_memberOf18 <- read_csv("data/HC1_datos_2018/par_memberOf18.csv")
+parties18 <- read_csv("data/HC1_datos_2018/parties18.csv")
+pla_bud_budgetBreakdown18 <- read_csv("data/HC1_datos_2018/pla_bud_budgetBreakdown18.csv")
+releases18 <- read_csv("data/HC1_datos_2018/releases18.csv")
+sources18 <- read_csv("data/HC1_datos_2018/sources18.csv")
+ten_documents18 <- read_csv("data/HC1_datos_2018/ten_documents18.csv")
+ten_items18 <- read_csv("data/HC1_datos_2018/ten_items18.csv")
+ten_participationFees18 <- read_csv("data/HC1_datos_2018/ten_participationFees18.csv")
+ten_tenderers18 <- read_csv("data/HC1_datos_2018/ten_tenderers18.csv")
+
+### Datos HC1 2017 ###
+
+awa_documents17 <- read_csv ("data/HC1_datos_2017/awa_documents17.csv")
+awa_items17 <- read_csv("data/HC1_datos_2017/awa_items17.csv")
+awa_suppliers17 <- read_csv("data/HC1_datos_2017/awa_suppliers17.csv")
+awards17 <- read_csv("data/HC1_datos_2017/awards17.csv")
+con_documents17 <- read_csv("data/HC1_datos_2017/con_documents17.csv")
+con_guarantees17 <- read_csv("data/HC1_datos_2017/con_guarantees17.csv")
+con_suppliers17 <- read_csv("data/HC1_datos_2017/con_suppliers17.csv")
+contracts17 <- read_csv("data/HC1_datos_2017/contracts17.csv")
+par_memberOf17 <- read_csv("data/HC1_datos_2017/par_memberOf17.csv")
+parties17 <- read_csv("data/HC1_datos_2017/parties17.csv")
+pla_bud_budgetBreakdown17 <- read_csv("data/HC1_datos_2017/pla_bud_budgetBreakdown17.csv")
+releases17 <- read_csv("data/HC1_datos_2017/releases17.csv")
+sources17 <- read_csv("data/HC1_datos_2017/sources17.csv")
+ten_documents17 <- read_csv("data/HC1_datos_2017/ten_documents17.csv")
+ten_items17 <- read_csv("data/HC1_datos_2017/ten_items17.csv")
+ten_participationFees17 <- read_csv("data/HC1_datos_2017/ten_participationFees17.csv")
+ten_tenderers17 <- read_csv("data/HC1_datos_2017/ten_tenderers17.csv")
+
+### Datos HC1 2016 ###
+
+awa_documents16 <- read_csv ("data/HC1_datos_2016/awa_documents16.csv")
+awa_items16 <- read_csv("data/HC1_datos_2016/awa_items16.csv")
+awa_suppliers16 <- read_csv("data/HC1_datos_2016/awa_suppliers16.csv")
+awards16 <- read_csv("data/HC1_datos_2016/awards16.csv")
+con_documents16 <- read_csv("data/HC1_datos_2016/con_documents16.csv")
+con_guarantees16 <- read_csv("data/HC1_datos_2016/con_guarantees16.csv")
+con_suppliers16 <- read_csv("data/HC1_datos_2016/con_suppliers16.csv")
+contracts16 <- read_csv("data/HC1_datos_2016/contracts16.csv")
+par_memberOf16 <- read_csv("data/HC1_datos_2016/par_memberOf16.csv")
+parties16 <- read_csv("data/HC1_datos_2016/parties16.csv")
+pla_bud_budgetBreakdown16 <- read_csv("data/HC1_datos_2016/pla_bud_budgetBreakdown16.csv")
+releases16 <- read_csv("data/HC1_datos_2016/releases16.csv")
+sources16 <- read_csv("data/HC1_datos_2016/sources16.csv")
+ten_documents16 <- read_csv("data/HC1_datos_2016/ten_documents16.csv")
+ten_items16 <- read_csv("data/HC1_datos_2016/ten_items16.csv")
+ten_participationFees16 <- read_csv("data/HC1_datos_2016/ten_participationFees16.csv")
+ten_tenderers16 <- read_csv("data/HC1_datos_2016/ten_tenderers16.csv")
+
+### Datos HC1 2015 ###
+
+awa_documents15 <- read_csv ("data/HC1_datos_2015/awa_documents15.csv")
+awa_items15 <- read_csv("data/HC1_datos_2015/awa_items15.csv")
+awa_suppliers15 <- read_csv("data/HC1_datos_2015/awa_suppliers15.csv")
+awards15 <- read_csv("data/HC1_datos_2015/awards15.csv")
+con_documents15 <- read_csv("data/HC1_datos_2015/con_documents15.csv")
+con_guarantees15 <- read_csv("data/HC1_datos_2015/con_guarantees15.csv")
+con_suppliers15 <- read_csv("data/HC1_datos_2015/con_suppliers15.csv")
+contracts15 <- read_csv("data/HC1_datos_2015/contracts15.csv")
+par_memberOf15 <- read_csv("data/HC1_datos_2015/par_memberOf15.csv")
+parties15 <- read_csv("data/HC1_datos_2015/parties15.csv")
+pla_bud_budgetBreakdown15 <- read_csv("data/HC1_datos_2015/pla_bud_budgetBreakdown15.csv")
+releases15 <- read_csv("data/HC1_datos_2015/releases15.csv")
+sources15 <- read_csv("data/HC1_datos_2015/sources15.csv")
+ten_documents15 <- read_csv("data/HC1_datos_2015/ten_documents15.csv")
+ten_items15 <- read_csv("data/HC1_datos_2015/ten_items15.csv")
+ten_participationFees15 <- read_csv("data/HC1_datos_2015/ten_participationFees15.csv")
+ten_tenderers15 <- read_csv("data/HC1_datos_2015/ten_tenderers15.csv")
+
+
+### Consolidar awa_documents ###
+
+awa_documents <- rbind(awa_documents15, awa_documents16, awa_documents17, awa_documents18, awa_documents19, awa_documents20)
+
+### Consolidar awa_items ###
+
+awa_items <- rbind(awa_items15, awa_items16, awa_items17, awa_items18, awa_items19, awa_items20)
+
+### Consolidar awa_suppliers ###
+
+awa_suppliers <- rbind(awa_suppliers15, awa_suppliers16, awa_suppliers17, awa_suppliers18, awa_suppliers19, awa_suppliers20)
+
+### Consolidar awards ###
+
+awards <- rbind(awards15, awards16, awards17, awards18, awards19, awards20)
+
+### Consolidar con_documents ###
+
+con_documents <- rbind(con_documents15, con_documents16, con_documents17, con_documents18, con_documents19, con_documents20)
+
+### Consolidar con_guarantees ###
+
+con_guarantees <- rbind(con_guarantees15, con_guarantees16, con_guarantees17, con_guarantees18, con_guarantees19, con_guarantees20)
+
+### Consolidar con_suppliers ###
+
+con_suppliers <- rbind(con_suppliers15, con_suppliers16, con_suppliers17, con_suppliers18, con_suppliers19, con_suppliers20)
+
+### Consolidar contracts ###
+
+contracts <- rbind(contracts15, contracts16, contracts17, contracts18, contracts19, contracts20)
+
+### Consolidar par_memberOf ###
+
+par_memberOf <- rbind(par_memberOf15, par_memberOf16, par_memberOf17, par_memberOf18, par_memberOf19, par_memberOf20)
+
+### Consolidar parties ###
+
+parties <- rbind(parties15, parties16, parties17, parties18, parties19, parties20)
+
+### Consolidar pla_bud_budgetBreakdown ###
+
+pla_bud_budgetBreakdown <- rbind(pla_bud_budgetBreakdown15, pla_bud_budgetBreakdown16, pla_bud_budgetBreakdown17, pla_bud_budgetBreakdown18, pla_bud_budgetBreakdown19, pla_bud_budgetBreakdown20)
+
+### Consolidar releases ###
+
+releases <- rbind(releases15, releases16, releases17, releases18, releases19, releases20)
+
+### Consolidar sources ###
+
+sources <- rbind(sources15, sources16, sources17, sources18, sources19, sources20)
+
+### Consolidar ten_documents ###
+
+ten_documents <- rbind(ten_documents15, ten_documents16, ten_documents17, ten_documents18, ten_documents19, ten_documents20)
+
+### Consolidar ten_items ###
+
+ten_items <- rbind(ten_items15, ten_items16, ten_items17, ten_items18, ten_items19, ten_items20)
+
+### Consolidar ten_participationFees ###
+
+ten_participationFees <- rbind(ten_participationFees15, ten_participationFees16, ten_participationFees17, ten_participationFees18, ten_participationFees19, ten_participationFees20)
+
+### Consolidar ten_tenderers ###
+
+ten_tenderers <- rbind(ten_tenderers15, ten_tenderers16, ten_tenderers17, ten_tenderers18, ten_tenderers19, ten_tenderers20)
+
+
+### Guardar Tablas Consolidadas en CSV ###
+
+saveRDS(awa_documents, "data/HC1_consolidado/awa_documents.rds")
+saveRDS(awa_items, "data/HC1_consolidado/awa_items.rds")
+saveRDS(awa_suppliers, "data/HC1_consolidado/awa_suppliers.rds")
+saveRDS(awards, "data/HC1_consolidado/awards.rds")
+saveRDS(con_documents, "data/HC1_consolidado/con_documents.rds")
+saveRDS(con_guarantees, "data/HC1_consolidado/con_guarantees.rds")
+saveRDS(con_suppliers, "data/HC1_consolidado/con_suppliers.rds")
+saveRDS(contracts, "data/HC1_consolidado/contracts.rds")
+saveRDS(par_memberOf, "data/HC1_consolidado/par_memberOf.rds")
+saveRDS(parties, "data/HC1_consolidado/parties.rds")
+saveRDS(pla_bud_budgetBreakdown, "data/HC1_consolidado/pla_bud_budgetBreakdown.rds")
+saveRDS(releases, "data/HC1_consolidado/releases.rds")
+saveRDS(sources, "data/HC1_consolidado/sources.rds")
+saveRDS(ten_documents, "data/HC1_consolidado/ten_documents.rds")
+saveRDS(ten_items, "data/HC1_consolidado/ten_items.rds")
+saveRDS(ten_participationFees, "data/HC1_consolidado/ten_participationFees.rds")
+saveRDS(ten_tenderers, "data/HC1_consolidado/ten_tenderers.rds")
+
+### Limpieza de Global Environment de Objetos Innecesarios, y Liberar RAM.
+
+rm(list = ls(all.names = TRUE))
+
+### Fin de Consolidacion de Data HC1
+```
+
+2) Importar Data CE, Consolidar, Guardar Archivos
+
+```{r}
+
+### Datos CE 2020 ###
+
+awards20 <- read_csv("data/CE_datos_2020/awards20.csv")
+con_ite_attributes20 <- read_csv("data/CE_datos_2020/con_ite_attributes20.csv")
+con_items20 <- read_csv("data/CE_datos_2020/con_items20.csv")
+con_suppliers20 <- read_csv("data/CE_datos_2020/con_suppliers20.csv")
+contracts20 <- read_csv("data/CE_datos_2020/contracts20.csv")
+par_memberOf20 <- read_csv("data/CE_datos_2020/par_memberOf20.csv")
+parties20 <- read_csv("data/CE_datos_2020/parties20.csv")
+releases20 <- read_csv("data/CE_datos_2020/releases20.csv")
+sources20 <- read_csv("data/CE_datos_2020/sources20.csv")
+
+### Datos CE 2019 ###
+
+awards19 <- read_csv("data/CE_datos_2019/awards19.csv")
+con_ite_attributes19 <- read_csv("data/CE_datos_2019/con_ite_attributes19.csv")
+con_items19 <- read_csv("data/CE_datos_2019/con_items19.csv")
+con_suppliers19 <- read_csv("data/CE_datos_2019/con_suppliers19.csv")
+contracts19 <- read_csv("data/CE_datos_2019/contracts19.csv")
+par_memberOf19 <- read_csv("data/CE_datos_2019/par_memberOf19.csv")
+parties19 <- read_csv("data/CE_datos_2019/parties19.csv")
+releases19 <- read_csv("data/CE_datos_2019/releases19.csv")
+sources19 <- read_csv("data/CE_datos_2019/sources19.csv")
+
+### Datos CE 2018 ###
+
+awards18 <- read_csv("data/CE_datos_2018/awards18.csv")
+con_ite_attributes18 <- read_csv("data/CE_datos_2018/con_ite_attributes18.csv")
+con_items18 <- read_csv("data/CE_datos_2018/con_items18.csv")
+con_suppliers18 <- read_csv("data/CE_datos_2018/con_suppliers18.csv")
+contracts18 <- read_csv("data/CE_datos_2018/contracts18.csv")
+par_memberOf18 <- read_csv("data/CE_datos_2018/par_memberOf18.csv")
+parties18 <- read_csv("data/CE_datos_2018/parties18.csv")
+releases18 <- read_csv("data/CE_datos_2018/releases18.csv")
+sources18 <- read_csv("data/CE_datos_2018/sources18.csv")
+
+### Datos CE 2017 ###
+
+awards17 <- read_csv("data/CE_datos_2017/awards17.csv")
+con_ite_attributes17 <- read_csv("data/CE_datos_2017/con_ite_attributes17.csv")
+con_items17 <- read_csv("data/CE_datos_2017/con_items17.csv")
+con_suppliers17 <- read_csv("data/CE_datos_2017/con_suppliers17.csv")
+contracts17 <- read_csv("data/CE_datos_2017/contracts17.csv")
+par_memberOf17 <- read_csv("data/CE_datos_2017/par_memberOf17.csv")
+parties17 <- read_csv("data/CE_datos_2017/parties17.csv")
+releases17 <- read_csv("data/CE_datos_2017/releases17.csv")
+sources17 <- read_csv("data/CE_datos_2017/sources17.csv")
+
+### Datos CE 2016 ###
+
+awards16 <- read_csv("data/CE_datos_2016/awards16.csv")
+con_ite_attributes16 <- read_csv("data/CE_datos_2016/con_ite_attributes16.csv")
+con_items16 <- read_csv("data/CE_datos_2016/con_items16.csv")
+con_suppliers16 <- read_csv("data/CE_datos_2016/con_suppliers16.csv")
+contracts16 <- read_csv("data/CE_datos_2016/contracts16.csv")
+par_memberOf16 <- read_csv("data/CE_datos_2016/par_memberOf16.csv")
+parties16 <- read_csv("data/CE_datos_2016/parties16.csv")
+releases16 <- read_csv("data/CE_datos_2016/releases16.csv")
+sources16 <- read_csv("data/CE_datos_2016/sources16.csv")
+
+### Datos CE 2015 ###
+
+awards15 <- read_csv("data/CE_datos_2015/awards15.csv")
+con_ite_attributes15 <- read_csv("data/CE_datos_2015/con_ite_attributes15.csv")
+con_items15 <- read_csv("data/CE_datos_2015/con_items15.csv")
+con_suppliers15 <- read_csv("data/CE_datos_2015/con_suppliers15.csv")
+contracts15 <- read_csv("data/CE_datos_2015/contracts15.csv")
+par_memberOf15 <- read_csv("data/CE_datos_2015/par_memberOf15.csv")
+parties15 <- read_csv("data/CE_datos_2015/parties15.csv")
+releases15 <- read_csv("data/CE_datos_2015/releases15.csv")
+sources15 <- read_csv("data/CE_datos_2015/sources15.csv")
+
+
+#### Consolidar Todo####
+
+awards <- rbind(awards15, awards16, awards17, awards18, awards19, awards20)
+con_ite_attributes <- rbind(con_ite_attributes15, con_ite_attributes16, con_ite_attributes17, 
+                            con_ite_attributes18, con_ite_attributes19, con_ite_attributes20)
+con_items <- rbind(con_items15, con_items16, con_items17, con_items18, con_items19, con_items20)
+con_suppliers <- rbind(con_suppliers15, con_suppliers16, con_suppliers17, con_suppliers18, 
+                       con_suppliers19, con_suppliers20)
+contracts <- rbind(contracts15, contracts16, contracts17, contracts18, contracts19, contracts20)
+par_memberOf <- rbind(par_memberOf15, par_memberOf16, par_memberOf17, par_memberOf18, par_memberOf19, par_memberOf20)
+parties <- rbind(parties15, parties16, parties17, parties18, parties19, parties20)
+releases <- rbind(releases15, releases16, releases17, releases18, releases19, releases20)
+sources <- rbind(sources15, sources16, sources17, sources18, sources19, sources20)
+
+### Guardar Archivos ###
+
+saveRDS(awards, "data/CE_Consolidado/awards.rds")
+saveRDS(con_ite_attributes, "data/CE_Consolidado/con_ite_attributess.rds")
+saveRDS(con_items, "data/CE_Consolidado/con_items.rds")
+saveRDS(con_suppliers, "data/CE_Consolidado/con_suppliers.rds")
+saveRDS(contracts, "data/CE_Consolidado/contracts.rds")
+saveRDS(par_memberOf, "data/CE_Consolidado/par_memberOf.rds")
+saveRDS(parties, "data/CE_Consolidado/parties.rds")
+saveRDS(releases, "data/CE_Consolidado/releases.rds")
+saveRDS(sources, "data/CE_Consolidado/sources.rds")
+
+rm(list = ls(all.names = TRUE))
+
+
+
+```
+
